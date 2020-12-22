@@ -1,91 +1,54 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id
-gadenbuie,alix,gadenbuie/alix,1,1,0,0,FALSE,https://github.com/gadenbuie/alix,1,NA,NA,NA,NA,NA,NA
-gadenbuie,applause,gadenbuie/applause,12,1,0,1,FALSE,https://github.com/gadenbuie/applause,12,NA,NA,NA,NA,NA,NA
-gadenbuie,aws-p2-setup,gadenbuie/aws-p2-setup,0,1,0,0,FALSE,https://github.com/gadenbuie/aws-p2-setup,0,NA,NA,NA,NA,NA,NA
-gadenbuie,boostrap-v3-theme-minty,gadenbuie/boostrap-v3-theme-minty,0,2,1,1,FALSE,https://github.com/gadenbuie/boostrap-v3-theme-minty,0,NA,NA,NA,NA,NA,NA
-gadenbuie,cleanrmd,gadenbuie/cleanrmd,31,3,7,1,FALSE,https://github.com/gadenbuie/cleanrmd,31,NA,NA,NA,NA,NA,NA
-gadenbuie,countdown,gadenbuie/countdown,102,5,4,7,FALSE,https://github.com/gadenbuie/countdown,102,NA,NA,NA,NA,NA,NA
-gadenbuie,covid19-florida,gadenbuie/covid19-florida,33,7,8,9,FALSE,https://github.com/gadenbuie/covid19-florida,33,NA,NA,NA,NA,NA,NA
-gadenbuie,covid19-florida-ahca,gadenbuie/covid19-florida-ahca,0,1,0,0,FALSE,https://github.com/gadenbuie/covid19-florida-ahca,0,NA,NA,NA,NA,NA,NA
-gadenbuie,covid19-florida-cases-by-day,gadenbuie/covid19-florida-cases-by-day,0,1,0,0,FALSE,https://github.com/gadenbuie/covid19-florida-cases-by-day,0,NA,NA,NA,NA,NA,NA
-gadenbuie,crantrack,gadenbuie/crantrack,0,1,0,0,FALSE,https://github.com/gadenbuie/crantrack,0,NA,NA,NA,NA,NA,NA
-gadenbuie,de-iris-my-repos,gadenbuie/de-iris-my-repos,11,1,0,0,FALSE,https://github.com/gadenbuie/de-iris-my-repos,11,NA,NA,NA,NA,NA,NA
-gadenbuie,docker-rstudio-keras,gadenbuie/docker-rstudio-keras,3,1,0,1,FALSE,https://github.com/gadenbuie/docker-rstudio-keras,3,NA,NA,NA,NA,NA,NA
-gadenbuie,docker-shinycannon,gadenbuie/docker-shinycannon,1,1,0,0,FALSE,https://github.com/gadenbuie/docker-shinycannon,1,NA,NA,NA,NA,NA,NA
-gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,1,0,0,FALSE,https://github.com/gadenbuie/docker-snowplowr,0,NA,NA,NA,NA,NA,NA
-gadenbuie,drake-intro,gadenbuie/drake-intro,13,2,1,4,FALSE,https://github.com/gadenbuie/drake-intro,13,NA,NA,NA,NA,NA,NA
-gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,1,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,64,2,3,4,FALSE,https://github.com/gadenbuie/epoxy,64,NA,NA,NA,NA,NA,NA
-gadenbuie,ermoji,gadenbuie/ermoji,20,1,0,1,FALSE,https://github.com/gadenbuie/ermoji,20,NA,NA,NA,NA,NA,NA
-gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
-gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,3,1,0,0,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,3,NA,NA,NA,NA,NA,NA
-gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
-gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,6,1,14,4,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,6,NA,NA,NA,NA,NA,NA
-gadenbuie,gathertweet,gadenbuie/gathertweet,8,1,3,2,FALSE,https://github.com/gadenbuie/gathertweet,8,NA,NA,NA,NA,NA,NA
-gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,69,3,0,13,FALSE,https://github.com/gadenbuie/gentle-ggplot2,69,NA,NA,NA,NA,NA,NA
-gadenbuie,getcitations,gadenbuie/getcitations,12,1,0,3,FALSE,https://github.com/gadenbuie/getcitations,12,NA,NA,NA,NA,NA,NA
-gadenbuie,ggpomological,gadenbuie/ggpomological,291,9,8,16,FALSE,https://github.com/gadenbuie/ggpomological,291,NA,NA,NA,NA,NA,NA
-gadenbuie,ggweekly,gadenbuie/ggweekly,81,3,0,8,FALSE,https://github.com/gadenbuie/ggweekly,81,NA,NA,NA,NA,NA,NA
-gadenbuie,grkstyle,gadenbuie/grkstyle,40,2,2,6,FALSE,https://github.com/gadenbuie/grkstyle,40,NA,NA,NA,NA,NA,NA
-gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,9,1,0,1,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,9,NA,NA,NA,NA,NA,NA
-gadenbuie,isg-2018,gadenbuie/isg-2018,0,1,0,0,FALSE,https://github.com/gadenbuie/isg-2018,0,NA,NA,NA,NA,NA,NA
-gadenbuie,js4shiny,gadenbuie/js4shiny,41,4,2,1,FALSE,https://github.com/gadenbuie/js4shiny,NA,2005499,https://github.com/gadenbuie/js4shiny/workflows/tic/badge.svg,https://github.com/gadenbuie/js4shiny/actions/runs/434955519,failure,[ci] tic::update_tic() and add status update step,280ed148f678103c91a3ece2f6a2986bffd2fea1
-gadenbuie,js4shiny-drumkit,gadenbuie/js4shiny-drumkit,7,1,0,1,FALSE,https://github.com/gadenbuie/js4shiny-drumkit,7,NA,NA,NA,NA,NA,NA
-gadenbuie,js4shiny-frappeCharts,gadenbuie/js4shiny-frappeCharts,9,1,0,3,FALSE,https://github.com/gadenbuie/js4shiny-frappeCharts,9,NA,NA,NA,NA,NA,NA
-gadenbuie,js4shiny-workshop-webpage,gadenbuie/js4shiny-workshop-webpage,3,1,0,6,FALSE,https://github.com/gadenbuie/js4shiny-workshop-webpage,3,NA,NA,NA,NA,NA,NA
-gadenbuie,lorem,gadenbuie/lorem,15,1,3,1,FALSE,https://github.com/gadenbuie/lorem,15,NA,NA,NA,NA,NA,NA
-gadenbuie,mctestanalysis,gadenbuie/mctestanalysis,5,1,5,2,FALSE,https://github.com/gadenbuie/mctestanalysis,5,NA,NA,NA,NA,NA,NA
-gadenbuie,metathis,gadenbuie/metathis,47,2,6,2,FALSE,https://github.com/gadenbuie/metathis,NA,1393268,https://github.com/gadenbuie/metathis/workflows/tic/badge.svg,https://github.com/gadenbuie/metathis/actions/runs/434942459,success,[ci] tic::update_tic() and add status update step,ea26bc9f4abe3a1abf9ea051ed2e7ae21143794e
-gadenbuie,ms-render-ui-delay,gadenbuie/ms-render-ui-delay,1,1,0,0,FALSE,https://github.com/gadenbuie/ms-render-ui-delay,1,NA,NA,NA,NA,NA,NA
-gadenbuie,msglooker,gadenbuie/msglooker,2,1,1,0,FALSE,https://github.com/gadenbuie/msglooker,2,NA,NA,NA,NA,NA,NA
-gadenbuie,mueller-report,gadenbuie/mueller-report,46,4,0,26,FALSE,https://github.com/gadenbuie/mueller-report,46,NA,NA,NA,NA,NA,NA
-gadenbuie,nonlinear-opt-notes,gadenbuie/nonlinear-opt-notes,3,3,0,3,FALSE,https://github.com/gadenbuie/nonlinear-opt-notes,3,NA,NA,NA,NA,NA,NA
-gadenbuie,oceanic-eighties,gadenbuie/oceanic-eighties,9,1,0,3,FALSE,https://github.com/gadenbuie/oceanic-eighties,9,NA,NA,NA,NA,NA,NA
-gadenbuie,r-colors-css,gadenbuie/r-colors-css,7,1,0,2,FALSE,https://github.com/gadenbuie/r-colors-css,7,NA,NA,NA,NA,NA,NA
-gadenbuie,regexplain,gadenbuie/regexplain,402,18,1,20,FALSE,https://github.com/gadenbuie/regexplain,402,NA,NA,NA,NA,NA,NA
-gadenbuie,repromonkey,gadenbuie/repromonkey,0,1,4,0,FALSE,https://github.com/gadenbuie/repromonkey,0,NA,NA,NA,NA,NA,NA
-gadenbuie,resume,gadenbuie/resume,1,1,1,0,FALSE,https://github.com/gadenbuie/resume,1,NA,NA,NA,NA,NA,NA
-gadenbuie,rocker-verse-metaflow,gadenbuie/rocker-verse-metaflow,2,1,0,0,FALSE,https://github.com/gadenbuie/rocker-verse-metaflow,2,NA,NA,NA,NA,NA,NA
-gadenbuie,rsconf_tweets,gadenbuie/rsconf_tweets,31,3,0,13,FALSE,https://github.com/gadenbuie/rsconf_tweets,31,NA,NA,NA,NA,NA,NA
-gadenbuie,rstats-tweets,gadenbuie/rstats-tweets,2,1,0,0,FALSE,https://github.com/gadenbuie/rstats-tweets,2,NA,NA,NA,NA,NA,NA
-gadenbuie,rstatsnyc-2018-tweets,gadenbuie/rstatsnyc-2018-tweets,3,1,0,0,FALSE,https://github.com/gadenbuie/rstatsnyc-2018-tweets,3,NA,NA,NA,NA,NA,NA
-gadenbuie,rsthemes,gadenbuie/rsthemes,274,6,13,17,FALSE,https://github.com/gadenbuie/rsthemes,274,NA,NA,NA,NA,NA,NA
-gadenbuie,rstudio-ide-tips,gadenbuie/rstudio-ide-tips,5,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips,5,NA,NA,NA,NA,NA,NA
-gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,6,1,0,2,FALSE,https://github.com/gadenbuie/rstudio-ide-tips-demo,6,NA,NA,NA,NA,NA,NA
-gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudioAddinFriend,5,NA,NA,NA,NA,NA,NA
-gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
-gadenbuie,shinyComponents,gadenbuie/shinyComponents,36,2,7,3,FALSE,https://github.com/gadenbuie/shinyComponents,36,NA,NA,NA,NA,NA,NA
-gadenbuie,shinyThings,gadenbuie/shinyThings,17,1,1,1,FALSE,https://github.com/gadenbuie/shinyThings,17,NA,NA,NA,NA,NA,NA
-gadenbuie,shrtcts,gadenbuie/shrtcts,68,1,3,1,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/434944330,success,[ci] tic::update_tic() and add status update step,c2103728f2b73619d9eebf48f2cf62605d53972f
-gadenbuie,slides,gadenbuie/slides,2,1,0,2,FALSE,https://github.com/gadenbuie/slides,2,NA,NA,NA,NA,NA,NA
-gadenbuie,snippets,gadenbuie/snippets,11,1,1,6,FALSE,https://github.com/gadenbuie/snippets,11,NA,NA,NA,NA,NA,NA
-gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbuie/speedDate,1,NA,NA,NA,NA,NA,NA
-gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
-gadenbuie,starwarsdb,gadenbuie/starwarsdb,25,1,1,1,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/437247347,success,[ci] tic::update_tic() and add status update step,bb52cb21155b280aa92cdd86de3c1c7b32e816bf
-gadenbuie,status,gadenbuie/status,22,1,2,2,FALSE,https://github.com/gadenbuie/status,22,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/438001324,NA,[status] 2020-12-22 04:44:39 UTC,d5ba5f9ac4e4642417747bf4fe5a8ef7d9a5a10a
-gadenbuie,synamyn,gadenbuie/synamyn,9,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,9,NA,NA,NA,NA,NA,NA
-gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
-gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,525,30,13,88,FALSE,https://github.com/gadenbuie/tidyexplain,525,NA,NA,NA,NA,NA,NA
-gadenbuie,trug-ggplot2,gadenbuie/trug-ggplot2,23,1,0,5,FALSE,https://github.com/gadenbuie/trug-ggplot2,23,NA,NA,NA,NA,NA,NA
-gadenbuie,trump-tweet-time,gadenbuie/trump-tweet-time,36,1,0,0,FALSE,https://github.com/gadenbuie/trump-tweet-time,36,NA,NA,NA,NA,NA,NA
-gadenbuie,tweet-conf-dash,gadenbuie/tweet-conf-dash,91,4,6,50,FALSE,https://github.com/gadenbuie/tweet-conf-dash,91,NA,NA,NA,NA,NA,NA
-gadenbuie,tweetrmd,gadenbuie/tweetrmd,60,3,3,3,FALSE,https://github.com/gadenbuie/tweetrmd,60,NA,NA,NA,NA,NA,NA
-gadenbuie,tweets-of-2019,gadenbuie/tweets-of-2019,14,1,4,2,FALSE,https://github.com/gadenbuie/tweets-of-2019,14,NA,NA,NA,NA,NA,NA
-gadenbuie,usf-boot-camp-R,gadenbuie/usf-boot-camp-R,0,2,0,2,FALSE,https://github.com/gadenbuie/usf-boot-camp-R,0,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringan-line-focus,gadenbuie/xaringan-line-focus,1,1,0,0,FALSE,https://github.com/gadenbuie/xaringan-line-focus,1,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringan-logo,gadenbuie/xaringan-logo,11,1,0,8,FALSE,https://github.com/gadenbuie/xaringan-logo,11,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringan2powerpoint,gadenbuie/xaringan2powerpoint,7,1,0,1,FALSE,https://github.com/gadenbuie/xaringan2powerpoint,7,NA,NA,NA,NA,NA,NA
-gadenbuie,xaringanExtra,gadenbuie/xaringanExtra,192,5,14,14,FALSE,https://github.com/gadenbuie/xaringanExtra,NA,2283851,https://github.com/gadenbuie/xaringanExtra/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanExtra/actions/runs/437256672,success,[ci] tic::update_tic() and add status update step,93429efefb268a4df2f43935304a8f781f73ece8
-gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,311,10,7,15,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,4353739,https://github.com/gadenbuie/xaringanthemer/workflows/tic/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/437265621,success,[ci] Dispatch events to gadenbuie/status,f2edaf0f256cb88171c80f26a1829e5fde4a274c
-gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,20,2,0,8,FALSE,https://github.com/gadenbuie/yule-rstudio,20,NA,NA,NA,NA,NA,NA
-rstudio-education,gradethis,rstudio-education/gradethis,89,11,72,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3340437,https://github.com/rstudio-education/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/431111254,success,Remove unused code from testing pipe message,a5a03ce6bbec84885eda37bd56b52597536e4dba
-rstudio-education,gradethis,rstudio-education/gradethis,89,11,72,27,FALSE,https://github.com/rstudio-education/gradethis,NA,3574267,https://github.com/rstudio-education/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio-education/gradethis/actions/runs/413382645,success,"code_feedback() can accept character vectors (#182)
+rnabioco,antigen-tracking,rnabioco/antigen-tracking,0,2,3,0,FALSE,https://github.com/rnabioco/antigen-tracking,0,NA,NA,NA,NA,NA,NA
+rnabioco,bigbio,rnabioco/bigbio,0,2,2,0,FALSE,https://github.com/rnabioco/bigbio,0,NA,NA,NA,NA,NA,NA
+rnabioco,cellar,rnabioco/cellar,4,4,3,1,FALSE,https://github.com/rnabioco/cellar,4,NA,NA,NA,NA,NA,NA
+rnabioco,cellrangerAWS,rnabioco/cellrangerAWS,1,2,5,0,FALSE,https://github.com/rnabioco/cellrangerAWS,1,NA,NA,NA,NA,NA,NA
+rnabioco,clustifyr,rnabioco/clustifyr,58,11,13,12,FALSE,https://github.com/rnabioco/clustifyr,NA,839089,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/64597387,success,Install dev Rccp for tests,fde17917d935de5dd203df212e2cea49f18bf3d3
+rnabioco,clustifyr,rnabioco/clustifyr,58,11,13,12,FALSE,https://github.com/rnabioco/clustifyr,NA,2076350,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/381521749,failure,Merge branch 'master' of git.bioconductor.org:packages/clustifyr,3f757d23f556945a3493e4a9308306d08da38918
+rnabioco,clustifyr,rnabioco/clustifyr,58,11,13,12,FALSE,https://github.com/rnabioco/clustifyr,NA,2077256,https://github.com/rnabioco/clustifyr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/381521764,failure,Merge branch 'master' of git.bioconductor.org:packages/clustifyr,3f757d23f556945a3493e4a9308306d08da38918
+rnabioco,clustifyr,rnabioco/clustifyr,58,11,13,12,FALSE,https://github.com/rnabioco/clustifyr,NA,2077257,https://github.com/rnabioco/clustifyr/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/300963833,success,readme knit,4ce5d06b67448a26d2b84385bcbb0b2406b7dd02
+rnabioco,clustifyr,rnabioco/clustifyr,58,11,13,12,FALSE,https://github.com/rnabioco/clustifyr,NA,839088,https://github.com/rnabioco/clustifyr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/381521760,failure,Merge branch 'master' of git.bioconductor.org:packages/clustifyr,3f757d23f556945a3493e4a9308306d08da38918
+rnabioco,clustifyr-web-app,rnabioco/clustifyr-web-app,0,2,19,0,FALSE,https://github.com/rnabioco/clustifyr-web-app,0,NA,NA,NA,NA,NA,NA
+rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,2,FALSE,https://github.com/rnabioco/clustifyrdata,8,954106,https://github.com/rnabioco/clustifyrdata/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479781,success,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
+rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,2,FALSE,https://github.com/rnabioco/clustifyrdata,8,954107,https://github.com/rnabioco/clustifyrdata/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479783,failure,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
+rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,2,FALSE,https://github.com/rnabioco/clustifyrdata,8,954494,https://github.com/rnabioco/clustifyrdata/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/226376195,success,"Merge pull request #15 from rnabioco/gh-actions-fix
 
-Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",b2d9ef55d3f68d3dcadae06df2fc213d87f2d30b
-rstudio,learnr,rstudio/learnr,386,30,125,154,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/416410965,success,"Count bytes instead of characters (#452)
+error on error not warning",bdba8bea7797603d857170bdd70c74712532648f
+rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,4,3,1,1,FALSE,https://github.com/rnabioco/clustifyrdatahub,4,NA,NA,NA,NA,NA,NA
+rnabioco,djvdj,rnabioco/djvdj,1,2,13,0,FALSE,https://github.com/rnabioco/djvdj,1,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/371267557,success,plot_diversity bug,940682f68d7a34eefa1371463bb71f1450bce01d
+rnabioco,djvdj,rnabioco/djvdj,1,2,13,0,FALSE,https://github.com/rnabioco/djvdj,1,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/371267555,failure,plot_diversity bug,940682f68d7a34eefa1371463bb71f1450bce01d
+rnabioco,djvdj,rnabioco/djvdj,1,2,13,0,FALSE,https://github.com/rnabioco/djvdj,1,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/371267556,success,plot_diversity bug,940682f68d7a34eefa1371463bb71f1450bce01d
+rnabioco,djvdj,rnabioco/djvdj,1,2,13,0,FALSE,https://github.com/rnabioco/djvdj,1,2738772,https://github.com/rnabioco/djvdj/workflows/Commands/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/358222013,skipped,"Merge pull request #53 from rnabioco/tests
 
-* Count bytes instead of characters
-
-* Try using copypostfields",bdb2c5238fb8b7c228ba7ad161a2168cae6b35f0
+More tests, plot bugs",8d79bf89f203064bac715400def39ad3d4bfb9a9
+rnabioco,djvdj,rnabioco/djvdj,1,2,13,0,FALSE,https://github.com/rnabioco/djvdj,1,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/371267554,success,plot_diversity bug,940682f68d7a34eefa1371463bb71f1450bce01d
+rnabioco,lung-scrna,rnabioco/lung-scrna,0,2,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA,NA,NA,NA
+rnabioco,medulloblast,rnabioco/medulloblast,0,2,0,0,FALSE,https://github.com/rnabioco/medulloblast,0,NA,NA,NA,NA,NA,NA
+rnabioco,MOLB7950,rnabioco/MOLB7950,0,2,4,0,FALSE,https://github.com/rnabioco/MOLB7950,0,NA,NA,NA,NA,NA,NA
+rnabioco,practical-data-analysis,rnabioco/practical-data-analysis,9,5,15,8,FALSE,https://github.com/rnabioco/practical-data-analysis,9,NA,NA,NA,NA,NA,NA
+rnabioco,rbi-website,rnabioco/rbi-website,1,4,7,0,FALSE,https://github.com/rnabioco/rbi-website,1,NA,NA,NA,NA,NA,NA
+rnabioco,RcppLibBigWig,rnabioco/RcppLibBigWig,0,1,2,0,FALSE,https://github.com/rnabioco/RcppLibBigWig,0,NA,NA,NA,NA,NA,NA
+rnabioco,rhumba,rnabioco/rhumba,0,3,0,1,FALSE,https://github.com/rnabioco/rhumba,0,NA,NA,NA,NA,NA,NA
+rnabioco,rnaedits,rnabioco/rnaedits,3,2,1,0,FALSE,https://github.com/rnabioco/rnaedits,3,NA,NA,NA,NA,NA,NA
+rnabioco,rnaroids,rnabioco/rnaroids,0,4,2,1,FALSE,https://github.com/rnabioco/rnaroids,0,NA,NA,NA,NA,NA,NA
+rnabioco,rnastruct,rnabioco/rnastruct,0,3,0,0,FALSE,https://github.com/rnabioco/rnastruct,0,NA,NA,NA,NA,NA,NA
+rnabioco,rockyrna,rnabioco/rockyrna,0,1,1,0,FALSE,https://github.com/rnabioco/rockyrna,0,NA,NA,NA,NA,NA,NA
+rnabioco,scbp,rnabioco/scbp,1,3,0,0,FALSE,https://github.com/rnabioco/scbp,1,944614,https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/scbp/actions/runs/236412274,failure,use dev ggrepel and minor changes,72805a731b1e970b97129ec8ccaae3e260065cec
+rnabioco,scraps,rnabioco/scraps,3,5,1,0,FALSE,https://github.com/rnabioco/scraps,3,NA,NA,NA,NA,NA,NA
+rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,2,3,3,0,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,2,NA,NA,NA,NA,NA,NA
+rnabioco,scrna-subsets,rnabioco/scrna-subsets,2,2,0,2,FALSE,https://github.com/rnabioco/scrna-subsets,2,NA,NA,NA,NA,NA,NA
+rnabioco,sebeta,rnabioco/sebeta,0,2,0,0,FALSE,https://github.com/rnabioco/sebeta,0,NA,NA,NA,NA,NA,NA
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3029690,https://github.com/rnabioco/someta/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/someta/actions/runs/310237240,failure,keep trying 4,a9a03c526d4c3affa42a0fe164f49df78077f1ea
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3029886,https://github.com/rnabioco/someta/workflows/.github/workflows/check-bioc.yml/badge.svg,https://github.com/rnabioco/someta/actions/runs/310237196,failure,keep trying 4,a9a03c526d4c3affa42a0fe164f49df78077f1ea
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3030667,https://github.com/rnabioco/someta/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/someta/actions/runs/310491939,failure,Merge branch 'build_v' of https://github.com/rnabioco/scmetadata into build_v,fc6e5b8eb37f09606f2a02de8ef61a975a5e65ec
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3041800,https://github.com/rnabioco/someta/workflows/test/badge.svg,https://github.com/rnabioco/someta/actions/runs/311894650,success,Update main.yml,d5f13ba07b3a51c8381c996b8cf81ba4f0de5cdc
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3029363,https://github.com/rnabioco/someta/workflows/pkgdown/badge.svg,https://github.com/rnabioco/someta/actions/runs/422166322,success,Re-build README.Rmd,ad5c268027f5fdd183c2ce00d7e640fc238e13b0
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3029364,https://github.com/rnabioco/someta/workflows/Commands/badge.svg,https://github.com/rnabioco/someta/actions/runs/354378709,skipped,Re-build README.Rmd,e50538e96f2787c8e6e6ed7fcc20cad6090e4be7
+rnabioco,someta,rnabioco/someta,2,4,2,0,FALSE,https://github.com/rnabioco/someta,NA,3029689,https://github.com/rnabioco/someta/workflows/test-coverage/badge.svg,https://github.com/rnabioco/someta/actions/runs/310258486,failure,keep trying 5,62ccfeb51f1e05dd728c9fed8e15d507f36c3058
+rnabioco,squid,rnabioco/squid,0,2,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
+rnabioco,squirrelbox,rnabioco/squirrelbox,3,3,4,0,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
+rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905269,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
+rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905270,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
+rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/379441936,skipped,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
+rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,823278,https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905268,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
+rnabioco,valrdata,rnabioco/valrdata,0,2,0,0,FALSE,https://github.com/rnabioco/valrdata,0,NA,NA,NA,NA,NA,NA
