@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2020-12-27 12:22:12 UTC
+2020-12-28 12:23:02 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     1 |           2 |     13 |     0 | [![](https://github.com/rnabioco/djvdj/workflows/Commands/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/358222013)                           | <a href="https://github.com/rnabioco/djvdj/commit/8d79bf89f203064bac715400def39ad3d4bfb9a9" title="Merge pull request #53 from rnabioco/tests">8d79bf</a>                                     |
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     1 |           2 |     13 |     0 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/371267554)                      | <a href="https://github.com/rnabioco/djvdj/commit/940682f68d7a34eefa1371463bb71f1450bce01d" title="plot_diversity bug">940682</a>                                                             |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           3 |      0 |     0 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/236412274)                          | <a href="https://github.com/rnabioco/scbp/commit/72805a731b1e970b97129ec8ccaae3e260065cec" title="use dev ggrepel and minor changes">72805a</a>                                               |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      0 |     0 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/446956705)                  | <a href="https://github.com/rnabioco/status/commit/3ae663ae0e9107f0e0c833549dfb47e5dac65fc5" title="[status] 2020-12-26 12:22:24 UTC">3ae663</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      0 |     0 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/448779724)                  | <a href="https://github.com/rnabioco/status/commit/2bfb64de1150bad0dfd50e7f91883231df588dc1" title="[status] 2020-12-27 12:22:30 UTC">2bfb64</a>                                              |
 
 ## Repos without Github Actions
 
