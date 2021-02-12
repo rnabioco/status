@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-02-11 12:19:15 UTC
+2021-02-12 12:19:14 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     2 |           2 |     13 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/Commands/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/358222013)                           | <a href="https://github.com/rnabioco/djvdj/commit/8d79bf89f203064bac715400def39ad3d4bfb9a9" title="Merge pull request #53 from rnabioco/tests">8d79bf</a>                                     |
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     2 |           2 |     13 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/371267554)                      | <a href="https://github.com/rnabioco/djvdj/commit/940682f68d7a34eefa1371463bb71f1450bce01d" title="plot_diversity bug">940682</a>                                                             |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           3 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/503829486)                          | <a href="https://github.com/rnabioco/scbp/commit/77cb99bc3fda72a82f32e4e37290fb1bf165d988" title="add group rows/cols args">77cb99</a>                                                        |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      0 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/557752770)                  | <a href="https://github.com/rnabioco/status/commit/cace04dbe205dbcc3ef0f74b7b366b65fb90b071" title="[status] 2021-02-10 12:20:11 UTC">cace04</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      0 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/560953891)                  | <a href="https://github.com/rnabioco/status/commit/38462742ff070b76b73c189fba690e7edd88ffbb" title="[status] 2021-02-11 12:19:32 UTC">384627</a>                                              |
 
 ## Repos without Github Actions
 
@@ -49,7 +49,7 @@ GitHub Dashboard
 | [rnabioco/rbi-website](https://github.com/rnabioco/rbi-website)                             |     1 |           4 |      7 |     0 |
 | [rnabioco/antigen-tracking](https://github.com/rnabioco/antigen-tracking)                   |     0 |           2 |      3 |     2 |
 | [rnabioco/bigbio](https://github.com/rnabioco/bigbio)                                       |     0 |           2 |      2 |     0 |
-| [rnabioco/clustifyr-web-app](https://github.com/rnabioco/clustifyr-web-app)                 |     0 |           2 |     11 |     1 |
+| [rnabioco/clustifyr-web-app](https://github.com/rnabioco/clustifyr-web-app)                 |     0 |           2 |     10 |     1 |
 | [rnabioco/lung-scrna](https://github.com/rnabioco/lung-scrna)                               |     0 |           2 |      0 |     1 |
 | [rnabioco/medulloblast](https://github.com/rnabioco/medulloblast)                           |     0 |           2 |      0 |     1 |
 | [rnabioco/MOLB7950](https://github.com/rnabioco/MOLB7950)                                   |     0 |           2 |      4 |     0 |
