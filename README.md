@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-02-23 12:19:50 UTC
+2021-02-24 12:24:43 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     4 |           2 |     14 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/587221140)                      | <a href="https://github.com/rnabioco/djvdj/commit/9a3d6b2b3413850c491a6b1b0c59506d63925597" title="Merge pull request #61 from rnabioco/misc">9a3d6b</a>                                      |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           3 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/576325582)                          | <a href="https://github.com/rnabioco/scbp/commit/4afa05d65d67b9985f8e609d0992043505152bef" title="stop testing on devel for now due to Cairo X11 issue">4afa05</a>                            |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     0 |           3 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/569413191)             | <a href="https://github.com/rnabioco/rnastruct/commit/b5c30dffe71b4ad8215e51cb047598793564f7cd" title="replace badge">b5c30d</a>                                                              |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      0 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/592499738)                  | <a href="https://github.com/rnabioco/status/commit/88a4e26649856e4c4e69ed283c002fafb1dd742b" title="[status] 2021-02-22 12:17:19 UTC">88a4e2</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      0 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/595985642)                  | <a href="https://github.com/rnabioco/status/commit/801b1210fa83573fa4c5c0df318859956b31de9d" title="[status] 2021-02-23 12:20:31 UTC">801b12</a>                                              |
 
 ## Repos without Github Actions
 
