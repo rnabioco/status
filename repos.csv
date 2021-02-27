@@ -3,11 +3,35 @@ rnabioco,antigen-tracking,rnabioco/antigen-tracking,0,2,0,2,FALSE,https://github
 rnabioco,bigbio,rnabioco/bigbio,0,2,2,0,FALSE,https://github.com/rnabioco/bigbio,0,NA,NA,NA,NA,NA,NA
 rnabioco,cellar,rnabioco/cellar,4,4,3,1,FALSE,https://github.com/rnabioco/cellar,4,NA,NA,NA,NA,NA,NA
 rnabioco,cellrangerAWS,rnabioco/cellrangerAWS,2,2,5,1,FALSE,https://github.com/rnabioco/cellrangerAWS,2,NA,NA,NA,NA,NA,NA
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,8,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839089,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/64597387,success,Install dev Rccp for tests,fde17917d935de5dd203df212e2cea49f18bf3d3
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,8,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2076350,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/599132263,failure,readme update,c847ae8567b35d45c2282f68e5fd6199fcda3bec
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,8,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077256,https://github.com/rnabioco/clustifyr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/599132326,failure,readme update,c847ae8567b35d45c2282f68e5fd6199fcda3bec
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,8,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077257,https://github.com/rnabioco/clustifyr/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/466598523,success,Merge branch 'master' of https://github.com/rnabioco/clustifyr,a5a234e3d1bfd8a69beb0c68d76e5b23fef244b2
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,8,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839088,https://github.com/rnabioco/clustifyr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/599132314,failure,readme update,c847ae8567b35d45c2282f68e5fd6199fcda3bec
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839089,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/64597387,success,Install dev Rccp for tests,fde17917d935de5dd203df212e2cea49f18bf3d3
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2076350,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/604492689,failure,"Rankdiff (#381)
+
+* new rank differences functions
+
+* plotting and go
+
+* plotting and go integrate into clustify
+
+* readme and news",a9f6aa2387c3fd1866793c79059f0bc5bdc8ea95
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077256,https://github.com/rnabioco/clustifyr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/604492627,failure,"Rankdiff (#381)
+
+* new rank differences functions
+
+* plotting and go
+
+* plotting and go integrate into clustify
+
+* readme and news",a9f6aa2387c3fd1866793c79059f0bc5bdc8ea95
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077257,https://github.com/rnabioco/clustifyr/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/466598523,success,Merge branch 'master' of https://github.com/rnabioco/clustifyr,a5a234e3d1bfd8a69beb0c68d76e5b23fef244b2
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839088,https://github.com/rnabioco/clustifyr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/604492628,failure,"Rankdiff (#381)
+
+* new rank differences functions
+
+* plotting and go
+
+* plotting and go integrate into clustify
+
+* readme and news",a9f6aa2387c3fd1866793c79059f0bc5bdc8ea95
 rnabioco,clustifyr-web-app,rnabioco/clustifyr-web-app,0,2,10,1,FALSE,https://github.com/rnabioco/clustifyr-web-app,0,NA,NA,NA,NA,NA,NA
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,8,954106,https://github.com/rnabioco/clustifyrdata/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479781,success,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,8,954107,https://github.com/rnabioco/clustifyrdata/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479783,failure,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
@@ -53,7 +77,7 @@ rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/588271523,success,fix rmds,4e52e22c22e58f872e6d655b06f0499b1eb6806d
 rnabioco,squid,rnabioco/squid,0,2,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,3,3,4,2,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,2,0,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/602689652,NA,[status] 2021-02-25 12:19:56 UTC,a57754b64a551563421b83c0e7a8f6a3735cf8ed
+rnabioco,status,rnabioco/status,0,2,0,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/605477773,NA,[status] 2021-02-26 12:19:50 UTC,e5a6d7ced4e6d44005135083ace11d4c03f1ba01
 rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905269,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
 rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905270,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
 rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/379441936,skipped,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
