@@ -4,34 +4,10 @@ rnabioco,bigbio,rnabioco/bigbio,0,2,2,0,FALSE,https://github.com/rnabioco/bigbio
 rnabioco,cellar,rnabioco/cellar,4,4,3,1,FALSE,https://github.com/rnabioco/cellar,4,NA,NA,NA,NA,NA,NA
 rnabioco,cellrangerAWS,rnabioco/cellrangerAWS,2,2,5,1,FALSE,https://github.com/rnabioco/cellrangerAWS,2,NA,NA,NA,NA,NA,NA
 rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839089,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/64597387,success,Install dev Rccp for tests,fde17917d935de5dd203df212e2cea49f18bf3d3
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2076350,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/604492689,failure,"Rankdiff (#381)
-
-* new rank differences functions
-
-* plotting and go
-
-* plotting and go integrate into clustify
-
-* readme and news",a9f6aa2387c3fd1866793c79059f0bc5bdc8ea95
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077256,https://github.com/rnabioco/clustifyr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/604492627,failure,"Rankdiff (#381)
-
-* new rank differences functions
-
-* plotting and go
-
-* plotting and go integrate into clustify
-
-* readme and news",a9f6aa2387c3fd1866793c79059f0bc5bdc8ea95
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2076350,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/610029083,NA,# of downloads from bioc,656d5c5bba64382832c57163b2e215b2b40c2076
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077256,https://github.com/rnabioco/clustifyr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/610029081,NA,# of downloads from bioc,656d5c5bba64382832c57163b2e215b2b40c2076
 rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2077257,https://github.com/rnabioco/clustifyr/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/466598523,success,Merge branch 'master' of https://github.com/rnabioco/clustifyr,a5a234e3d1bfd8a69beb0c68d76e5b23fef244b2
-rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839088,https://github.com/rnabioco/clustifyr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/604492628,failure,"Rankdiff (#381)
-
-* new rank differences functions
-
-* plotting and go
-
-* plotting and go integrate into clustify
-
-* readme and news",a9f6aa2387c3fd1866793c79059f0bc5bdc8ea95
+rnabioco,clustifyr,rnabioco/clustifyr,59,10,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839088,https://github.com/rnabioco/clustifyr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/610029080,NA,# of downloads from bioc,656d5c5bba64382832c57163b2e215b2b40c2076
 rnabioco,clustifyr-web-app,rnabioco/clustifyr-web-app,0,2,9,1,FALSE,https://github.com/rnabioco/clustifyr-web-app,0,NA,NA,NA,NA,NA,NA
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,8,954106,https://github.com/rnabioco/clustifyrdata/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479781,success,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,8,3,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,8,954107,https://github.com/rnabioco/clustifyrdata/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479783,failure,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
@@ -68,16 +44,16 @@ rnabioco,scraps,rnabioco/scraps,3,5,1,0,FALSE,https://github.com/rnabioco/scraps
 rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,2,3,3,0,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,2,NA,NA,NA,NA,NA,NA
 rnabioco,scrna-subsets,rnabioco/scrna-subsets,2,2,0,2,FALSE,https://github.com/rnabioco/scrna-subsets,2,NA,NA,NA,NA,NA,NA
 rnabioco,sebeta,rnabioco/sebeta,0,2,0,0,FALSE,https://github.com/rnabioco/sebeta,0,NA,NA,NA,NA,NA,NA
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,3029364,https://github.com/rnabioco/someta/workflows/Commands/badge.svg,https://github.com/rnabioco/someta/actions/runs/354378709,skipped,Re-build README.Rmd,e50538e96f2787c8e6e6ed7fcc20cad6090e4be7
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,3029689,https://github.com/rnabioco/someta/workflows/test-coverage/badge.svg,https://github.com/rnabioco/someta/actions/runs/310258486,failure,keep trying 5,62ccfeb51f1e05dd728c9fed8e15d507f36c3058
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,3029690,https://github.com/rnabioco/someta/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/someta/actions/runs/310237240,failure,keep trying 4,a9a03c526d4c3affa42a0fe164f49df78077f1ea
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,3029886,https://github.com/rnabioco/someta/workflows/.github/workflows/check-bioc.yml/badge.svg,https://github.com/rnabioco/someta/actions/runs/310237196,failure,keep trying 4,a9a03c526d4c3affa42a0fe164f49df78077f1ea
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,3030667,https://github.com/rnabioco/someta/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/someta/actions/runs/310491939,failure,Merge branch 'build_v' of https://github.com/rnabioco/scmetadata into build_v,fc6e5b8eb37f09606f2a02de8ef61a975a5e65ec
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,3041800,https://github.com/rnabioco/someta/workflows/test/badge.svg,https://github.com/rnabioco/someta/actions/runs/311894650,success,Update main.yml,d5f13ba07b3a51c8381c996b8cf81ba4f0de5cdc
-rnabioco,someta,rnabioco/someta,2,4,4,1,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/588271523,success,fix rmds,4e52e22c22e58f872e6d655b06f0499b1eb6806d
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,3029364,https://github.com/rnabioco/someta/workflows/Commands/badge.svg,https://github.com/rnabioco/someta/actions/runs/354378709,skipped,Re-build README.Rmd,e50538e96f2787c8e6e6ed7fcc20cad6090e4be7
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,3029689,https://github.com/rnabioco/someta/workflows/test-coverage/badge.svg,https://github.com/rnabioco/someta/actions/runs/310258486,failure,keep trying 5,62ccfeb51f1e05dd728c9fed8e15d507f36c3058
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,3029690,https://github.com/rnabioco/someta/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/someta/actions/runs/310237240,failure,keep trying 4,a9a03c526d4c3affa42a0fe164f49df78077f1ea
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,3029886,https://github.com/rnabioco/someta/workflows/.github/workflows/check-bioc.yml/badge.svg,https://github.com/rnabioco/someta/actions/runs/310237196,failure,keep trying 4,a9a03c526d4c3affa42a0fe164f49df78077f1ea
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,3030667,https://github.com/rnabioco/someta/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/someta/actions/runs/310491939,failure,Merge branch 'build_v' of https://github.com/rnabioco/scmetadata into build_v,fc6e5b8eb37f09606f2a02de8ef61a975a5e65ec
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,3041800,https://github.com/rnabioco/someta/workflows/test/badge.svg,https://github.com/rnabioco/someta/actions/runs/311894650,success,Update main.yml,d5f13ba07b3a51c8381c996b8cf81ba4f0de5cdc
+rnabioco,someta,rnabioco/someta,2,4,3,1,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/609060758,success,link to shinyapps,1ca786d7191e2096be52538aba106c1bb72be149
 rnabioco,squid,rnabioco/squid,0,2,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,3,3,4,2,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,2,0,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/607697875,NA,[status] 2021-02-27 12:19:22 UTC,236107c92efcedca8f1d41d7a5a0fa8c97fe4ebe
+rnabioco,status,rnabioco/status,0,2,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/610430667,NA,[status] 2021-02-28 12:19:32 UTC,1b72d78623cd04d6ee9ca8ace0cba32c8bb058db
 rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905269,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
 rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/293905270,success,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
 rnabioco,valr,rnabioco/valr,60,6,5,22,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/379441936,skipped,Increment version number,2ddf38cfe087c2b2a93cea3558c4fa96620e044e
