@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-05-05 12:22:30 UTC
+2021-05-06 12:22:01 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     5 |           2 |     12 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/733840633)                      | <a href="https://github.com/rnabioco/djvdj/commit/ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e" title="Merge pull request #64 from rnabioco/abundance">ffc13c</a>                                 |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     1 |           3 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/569413191)             | <a href="https://github.com/rnabioco/rnastruct/commit/b5c30dffe71b4ad8215e51cb047598793564f7cd" title="replace badge">b5c30d</a>                                                              |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           3 |      1 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/749022727)                          | <a href="https://github.com/rnabioco/scbp/commit/880e0e7a7a2931ce7dfde99561cb95f372ccf916" title="change color palettes">880e0e</a>                                                           |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/813364810)                  | <a href="https://github.com/rnabioco/status/commit/2986db1afda79d8b9f5797ce4898857ca7c661df" title="[status] 2021-05-04 12:06:39 UTC">2986db</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           2 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/816795215)                  | <a href="https://github.com/rnabioco/status/commit/ef95823377491f2ec0504ce078b897b5da6f443a" title="[status] 2021-05-05 12:22:58 UTC">ef9582</a>                                              |
 
 ## Repos without Github Actions
 
