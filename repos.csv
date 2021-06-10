@@ -56,10 +56,18 @@ rnabioco,someta,rnabioco/someta,5,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,5,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/897439014,success,fix author issue (null),f1b14d83f3c6febe1e4fa01cff49d71d00c366a7
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,3,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/921616181,NA,[status] 2021-06-08 12:06:22 UTC,a03bd7944acbd685515959fc401506ea37b2d95e
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/925032589,NA,[status] 2021-06-09 12:06:06 UTC,ca939e822ae1a68b65f410b28e2bc9e53d25d1d6
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
-rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/844922530,success,Increment version number,c1e48cfb37c0057cf0d0e728cdaffe71582371f7
-rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/844922531,success,Increment version number,c1e48cfb37c0057cf0d0e728cdaffe71582371f7
-rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/878888848,skipped,Increment version number,c1e48cfb37c0057cf0d0e728cdaffe71582371f7
-rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,823278,https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/valr/actions/runs/844922529,success,Increment version number,c1e48cfb37c0057cf0d0e728cdaffe71582371f7
+rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/922982896,success,"Merge pull request #378 from rnabioco/create_introns
+
+create_introns numbering bug",3d3efbd1a4fa25822f0e35e75db08e6e57f418bb
+rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/922982895,failure,"Merge pull request #378 from rnabioco/create_introns
+
+create_introns numbering bug",3d3efbd1a4fa25822f0e35e75db08e6e57f418bb
+rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/922984518,skipped,"Merge pull request #378 from rnabioco/create_introns
+
+create_introns numbering bug",3d3efbd1a4fa25822f0e35e75db08e6e57f418bb
+rnabioco,valr,rnabioco/valr,62,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,823278,https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/valr/actions/runs/922982894,success,"Merge pull request #378 from rnabioco/create_introns
+
+create_introns numbering bug",3d3efbd1a4fa25822f0e35e75db08e6e57f418bb
 rnabioco,valrdata,rnabioco/valrdata,0,3,0,0,FALSE,https://github.com/rnabioco/valrdata,0,NA,NA,NA,NA,NA,NA
