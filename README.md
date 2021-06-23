@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-06-22 12:05:39 UTC
+2021-06-23 12:05:46 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     5 |           3 |     14 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/733840633)                      | <a href="https://github.com/rnabioco/djvdj/commit/ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e" title="Merge pull request #64 from rnabioco/abundance">ffc13c</a>                                 |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/879123336)                          | <a href="https://github.com/rnabioco/scbp/commit/00c32ce710e621c74295003c070cf2d8b2eb32bd" title="add colorramp and issue #1, closes #1">00c32c</a>                                           |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/960547355)                  | <a href="https://github.com/rnabioco/status/commit/db0e5ad43e378b99b5a75782e9fcbb40e86263ed" title="[status] 2021-06-21 12:06:04 UTC">db0e5a</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/964206856)                  | <a href="https://github.com/rnabioco/status/commit/46bcac7cde133c281e2c8de3cab436c3ae91fb62" title="[status] 2021-06-22 12:06:09 UTC">46bcac</a>                                              |
 
 ## Repos without Github Actions
 
