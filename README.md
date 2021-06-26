@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-06-25 12:05:44 UTC
+2021-06-26 12:05:53 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     5 |           3 |     14 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/733840633)                      | <a href="https://github.com/rnabioco/djvdj/commit/ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e" title="Merge pull request #64 from rnabioco/abundance">ffc13c</a>                                 |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/969731201)                          | <a href="https://github.com/rnabioco/scbp/commit/09e1e09efd206e5d80fae281910e3db2122b59ea" title="add highlight arg to plot_feature and preprocess_alevin">09e1e0</a>                         |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/971319034)                  | <a href="https://github.com/rnabioco/status/commit/0539ec701cbc6210c5442d0ecbd408276a8fd316" title="[status] 2021-06-24 12:06:27 UTC">0539ec</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/974106685)                  | <a href="https://github.com/rnabioco/status/commit/90a50cd8b79bba51bf766eafacecb49eb388e47b" title="[status] 2021-06-25 12:06:15 UTC">90a50c</a>                                              |
 
 ## Repos without Github Actions
 
@@ -43,7 +43,7 @@ GitHub Dashboard
 | [rnabioco/clustifyrdatahub](https://github.com/rnabioco/clustifyrdatahub)                   |     4 |           4 |      1 |     1 |
 | [rnabioco/cellrangerAWS](https://github.com/rnabioco/cellrangerAWS)                         |     3 |           4 |      5 |     1 |
 | [rnabioco/rnaedits](https://github.com/rnabioco/rnaedits)                                   |     3 |           3 |      1 |     0 |
-| [rnabioco/scraps](https://github.com/rnabioco/scraps)                                       |     3 |           5 |     17 |     0 |
+| [rnabioco/scraps](https://github.com/rnabioco/scraps)                                       |     3 |           5 |     19 |     0 |
 | [rnabioco/squirrelbox](https://github.com/rnabioco/squirrelbox)                             |     3 |           4 |      3 |     2 |
 | [rnabioco/scRNA-seq-Cell-Ref-Matrix](https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix) |     2 |           4 |      3 |     0 |
 | [rnabioco/scrna-subsets](https://github.com/rnabioco/scrna-subsets)                         |     2 |           3 |      0 |     2 |
