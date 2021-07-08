@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-07-07 12:05:40 UTC
+2021-07-08 12:05:54 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ GitHub Dashboard
 | [rnabioco/djvdj](https://github.com/rnabioco/djvdj)                 |     5 |           3 |     14 |     2 | [![](https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/djvdj/actions/runs/733840633)                      | <a href="https://github.com/rnabioco/djvdj/commit/ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e" title="Merge pull request #64 from rnabioco/abundance">ffc13c</a>                                 |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/990733405)                          | <a href="https://github.com/rnabioco/scbp/commit/ebbdfe40a83d0a9853fbcf8ae3d3ee423b0cf173" title="build on release">ebbdfe</a>                                                                |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1007927023)                 | <a href="https://github.com/rnabioco/status/commit/7f7bfea7ca9dab5a1451ecf516ab21e7c70af43d" title="[status] 2021-07-06 12:06:34 UTC">7f7bfe</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1011547458)                 | <a href="https://github.com/rnabioco/status/commit/c408ac91f6f7ef92d1784e3f746d731c9c80343b" title="[status] 2021-07-07 12:06:09 UTC">c408ac</a>                                              |
 
 ## Repos without Github Actions
 
