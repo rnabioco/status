@@ -15,21 +15,15 @@ rnabioco,clustifyrdata,rnabioco/clustifyrdata,11,4,0,3,FALSE,https://github.com/
 
 error on error not warning",bdba8bea7797603d857170bdd70c74712532648f
 rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,4,4,1,1,FALSE,https://github.com/rnabioco/clustifyrdatahub,4,NA,NA,NA,NA,NA,NA
-rnabioco,djvdj,rnabioco/djvdj,5,3,14,2,FALSE,https://github.com/rnabioco/djvdj,5,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733840634,failure,"Merge pull request #64 from rnabioco/abundance
+rnabioco,djvdj,rnabioco/djvdj,5,3,15,2,FALSE,https://github.com/rnabioco/djvdj,5,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1035506858,success,import_vdj bug when assigning isotypes,4bc5b550287cc4a0e1a0198681a38e830ba1fe13
+rnabioco,djvdj,rnabioco/djvdj,5,3,15,2,FALSE,https://github.com/rnabioco/djvdj,5,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1035506856,failure,import_vdj bug when assigning isotypes,4bc5b550287cc4a0e1a0198681a38e830ba1fe13
+rnabioco,djvdj,rnabioco/djvdj,5,3,15,2,FALSE,https://github.com/rnabioco/djvdj,5,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733840636,failure,"Merge pull request #64 from rnabioco/abundance
 
 plot_abundance ordering",ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e
-rnabioco,djvdj,rnabioco/djvdj,5,3,14,2,FALSE,https://github.com/rnabioco/djvdj,5,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733840632,failure,"Merge pull request #64 from rnabioco/abundance
+rnabioco,djvdj,rnabioco/djvdj,5,3,15,2,FALSE,https://github.com/rnabioco/djvdj,5,2738772,https://github.com/rnabioco/djvdj/workflows/Commands/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733877487,skipped,"Merge pull request #64 from rnabioco/abundance
 
 plot_abundance ordering",ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e
-rnabioco,djvdj,rnabioco/djvdj,5,3,14,2,FALSE,https://github.com/rnabioco/djvdj,5,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733840636,failure,"Merge pull request #64 from rnabioco/abundance
-
-plot_abundance ordering",ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e
-rnabioco,djvdj,rnabioco/djvdj,5,3,14,2,FALSE,https://github.com/rnabioco/djvdj,5,2738772,https://github.com/rnabioco/djvdj/workflows/Commands/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733877487,skipped,"Merge pull request #64 from rnabioco/abundance
-
-plot_abundance ordering",ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e
-rnabioco,djvdj,rnabioco/djvdj,5,3,14,2,FALSE,https://github.com/rnabioco/djvdj,5,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/733840633,success,"Merge pull request #64 from rnabioco/abundance
-
-plot_abundance ordering",ffc13c998c1ad2ca3c8cb64e2b27cbca753efc4e
+rnabioco,djvdj,rnabioco/djvdj,5,3,15,2,FALSE,https://github.com/rnabioco/djvdj,5,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1035506857,success,import_vdj bug when assigning isotypes,4bc5b550287cc4a0e1a0198681a38e830ba1fe13
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA,NA,NA,NA
 rnabioco,medulloblast,rnabioco/medulloblast,0,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,0,NA,NA,NA,NA,NA,NA
 rnabioco,MOLB7950,rnabioco/MOLB7950,0,3,4,0,FALSE,https://github.com/rnabioco/MOLB7950,0,NA,NA,NA,NA,NA,NA
@@ -56,7 +50,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/988380566,success,Re-build README.Rmd,71ab94ecbfc9e9542e4ea6439fc2dfc08c107ab2
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,3,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1033810849,NA,[status] 2021-07-14 12:06:01 UTC,e369553b183849559c42c5e64b80e66336436ba1
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1037382008,NA,[status] 2021-07-15 12:06:35 UTC,3a608c3509904715bbc7d20040cf8083708b2d7c
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,64,8,6,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/922982896,success,"Merge pull request #378 from rnabioco/create_introns
 
