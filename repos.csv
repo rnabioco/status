@@ -41,7 +41,7 @@ rnabioco,rnastruct,rnabioco/rnastruct,2,4,0,0,FALSE,https://github.com/rnabioco/
 rnabioco,rockyrna,rnabioco/rockyrna,0,2,1,0,FALSE,https://github.com/rnabioco/rockyrna,0,NA,NA,NA,NA,NA,NA
 rnabioco,scbp,rnabioco/scbp,1,4,0,1,FALSE,https://github.com/rnabioco/scbp,1,944614,https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/scbp/actions/runs/990733405,success,build on release,ebbdfe40a83d0a9853fbcf8ae3d3ee423b0cf173
 rnabioco,scinter,rnabioco/scinter,0,2,0,0,FALSE,https://github.com/rnabioco/scinter,0,NA,NA,NA,NA,NA,NA
-rnabioco,scraps,rnabioco/scraps,3,5,20,0,FALSE,https://github.com/rnabioco/scraps,3,NA,NA,NA,NA,NA,NA
+rnabioco,scraps,rnabioco/scraps,3,5,19,0,FALSE,https://github.com/rnabioco/scraps,3,NA,NA,NA,NA,NA,NA
 rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,2,4,3,0,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,2,NA,NA,NA,NA,NA,NA
 rnabioco,scrna-subsets,rnabioco/scrna-subsets,2,3,0,2,FALSE,https://github.com/rnabioco/scrna-subsets,2,NA,NA,NA,NA,NA,NA
 rnabioco,sebeta,rnabioco/sebeta,0,3,0,0,FALSE,https://github.com/rnabioco/sebeta,0,NA,NA,NA,NA,NA,NA
@@ -54,7 +54,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/988380566,success,Re-build README.Rmd,71ab94ecbfc9e9542e4ea6439fc2dfc08c107ab2
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,3,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1056030346,NA,[status] 2021-07-21 12:07:02 UTC,0b8222f30814a2112bb5462430cb35b2b46af447
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1059580608,NA,[status] 2021-07-22 12:05:56 UTC,efcb6099f28b6f9c9ada470ad5d76349c7ba22a0
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,64,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/922982896,success,"Merge pull request #378 from rnabioco/create_introns
 
