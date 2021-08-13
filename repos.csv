@@ -40,7 +40,7 @@ rnabioco,rnaedits,rnabioco/rnaedits,3,3,1,0,FALSE,https://github.com/rnabioco/rn
 rnabioco,rnaroids,rnabioco/rnaroids,0,5,2,1,FALSE,https://github.com/rnabioco/rnaroids,0,NA,NA,NA,NA,NA,NA
 rnabioco,rnastruct,rnabioco/rnastruct,2,4,0,0,FALSE,https://github.com/rnabioco/rnastruct,2,5832865,https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg,https://github.com/rnabioco/rnastruct/actions/runs/845483933,success,Rename README.d to README.md,e673a35b147d227c50ee4bba64de0f8e0dbcc132
 rnabioco,rockyrna,rnabioco/rockyrna,0,2,1,0,FALSE,https://github.com/rnabioco/rockyrna,0,NA,NA,NA,NA,NA,NA
-rnabioco,scbp,rnabioco/scbp,1,4,0,1,FALSE,https://github.com/rnabioco/scbp,1,944614,https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/scbp/actions/runs/990733405,success,build on release,ebbdfe40a83d0a9853fbcf8ae3d3ee423b0cf173
+rnabioco,scbp,rnabioco/scbp,1,4,0,1,FALSE,https://github.com/rnabioco/scbp,1,944614,https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/scbp/actions/runs/1124780164,success,add summary boxplot,1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a
 rnabioco,scinter,rnabioco/scinter,0,2,0,0,FALSE,https://github.com/rnabioco/scinter,0,NA,NA,NA,NA,NA,NA
 rnabioco,scraps,rnabioco/scraps,4,5,20,0,FALSE,https://github.com/rnabioco/scraps,4,NA,NA,NA,NA,NA,NA
 rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,2,4,3,0,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,2,NA,NA,NA,NA,NA,NA
@@ -55,7 +55,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1090682622,success,rename,c1df355f20b524c74a5a4bad11360836b04f967b
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,3,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,3,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1123790262,NA,[status] 2021-08-11 12:07:04 UTC,9fb143387359a60ccbbb1185c175de463cb67c3e
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1127552804,NA,[status] 2021-08-12 12:07:05 UTC,ee9a0d9da57534a0beb24e08645c77c1bff3b774
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,64,8,5,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/922982896,success,"Merge pull request #378 from rnabioco/create_introns
 
