@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-09-10 12:05:42 UTC
+2021-09-11 12:05:05 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ GitHub Dashboard
 | [rnabioco/ggtrace](https://github.com/rnabioco/ggtrace)             |     2 |           2 |      8 |     0 | [![](https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/1214181171)                 | <a href="https://github.com/rnabioco/ggtrace/commit/d77d87728c773dacbb07f0519db599370441005c" title="line-trace vignette">d77d87</a>                                                          |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/1124780164)                         | <a href="https://github.com/rnabioco/scbp/commit/1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a" title="add summary boxplot">1ef22c</a>                                                             |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1221127999)                 | <a href="https://github.com/rnabioco/status/commit/e8653f75a0872e183f5a0aa63c5f193b5001690a" title="[status] 2021-09-09 12:07:19 UTC">e8653f</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1224275865)                 | <a href="https://github.com/rnabioco/status/commit/7ea441fd5aa80c16fc02e6475457aa19d80a622b" title="[status] 2021-09-10 12:06:15 UTC">7ea441</a>                                              |
 
 ## Repos without Github Actions
 
@@ -59,6 +59,7 @@ GitHub Dashboard
 | [rnabioco/lung-scrna](https://github.com/rnabioco/lung-scrna)                               |     0 |           3 |      0 |     1 |
 | [rnabioco/medulloblast](https://github.com/rnabioco/medulloblast)                           |     0 |           3 |      0 |     1 |
 | [rnabioco/MOLB7950](https://github.com/rnabioco/MOLB7950)                                   |     0 |           3 |      4 |     0 |
+| [rnabioco/morrison-chikv](https://github.com/rnabioco/morrison-chikv)                       |     0 |           1 |      0 |     0 |
 | [rnabioco/RcppLibBigWig](https://github.com/rnabioco/RcppLibBigWig)                         |     0 |           2 |      2 |     0 |
 | [rnabioco/rnaroids](https://github.com/rnabioco/rnaroids)                                   |     0 |           5 |      2 |     1 |
 | [rnabioco/rockyrna](https://github.com/rnabioco/rockyrna)                                   |     0 |           2 |      1 |     0 |
