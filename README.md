@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-09-15 12:05:50 UTC
+2021-09-16 12:05:48 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,16 +35,16 @@ GitHub Dashboard
 | [rnabioco/ggtrace](https://github.com/rnabioco/ggtrace)             |     2 |           2 |     10 |     0 | [![](https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/1225028534)                 | <a href="https://github.com/rnabioco/ggtrace/commit/4b7190d5fe8aa387ca441387c538d316a6ecc34e" title="Update license">4b7190</a>                                                               |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      0 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/1124780164)                         | <a href="https://github.com/rnabioco/scbp/commit/1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a" title="add summary boxplot">1ef22c</a>                                                             |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1237517187)                 | <a href="https://github.com/rnabioco/status/commit/4048151f0cad79a67e715a1c8996bbaa8831bb88" title="[status] 2021-09-14 12:06:07 UTC">404815</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1241474215)                 | <a href="https://github.com/rnabioco/status/commit/24e885053cdf41c695910f0707d7602e9c8fdd17" title="[status] 2021-09-15 12:06:24 UTC">24e885</a>                                              |
 
 ## Repos without Github Actions
 
 | Repo                                                                                        | Stars | Subscribers | Issues | Forks |
 | :------------------------------------------------------------------------------------------ | ----: | ----------: | -----: | ----: |
 | [rnabioco/practical-data-analysis](https://github.com/rnabioco/practical-data-analysis)     |    10 |           6 |     15 |     8 |
-| [rnabioco/cellar](https://github.com/rnabioco/cellar)                                       |     7 |           6 |      4 |     1 |
+| [rnabioco/cellar](https://github.com/rnabioco/cellar)                                       |     7 |           6 |      2 |     1 |
 | [rnabioco/clustifyrdatahub](https://github.com/rnabioco/clustifyrdatahub)                   |     4 |           4 |      1 |     1 |
-| [rnabioco/scraps](https://github.com/rnabioco/scraps)                                       |     4 |           5 |     20 |     0 |
+| [rnabioco/scraps](https://github.com/rnabioco/scraps)                                       |     4 |           5 |     17 |     0 |
 | [rnabioco/squirrelbox](https://github.com/rnabioco/squirrelbox)                             |     4 |           4 |      3 |     2 |
 | [rnabioco/cellrangerAWS](https://github.com/rnabioco/cellrangerAWS)                         |     3 |           4 |      5 |     1 |
 | [rnabioco/rnaedits](https://github.com/rnabioco/rnaedits)                                   |     3 |           3 |      1 |     0 |
