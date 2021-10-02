@@ -21,9 +21,15 @@ rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6
 
 added additional checks/tests to import_vdj, filter_vdj, and mutate_meta, closes #69 and #70",eab825cf2720e7a9232bd5d4fad8873316c7c398
 rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1273174884,failure,Update workflows,bf6e5294d6d0627b6f05448c6551f7e66b2bcd51
-rnabioco,ggtrace,rnabioco/ggtrace,2,2,7,0,FALSE,https://github.com/rnabioco/ggtrace,2,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1255626914,success,test fix,6da3d522d6835d58570f5df69cfaf0d08bc46058
-rnabioco,ggtrace,rnabioco/ggtrace,2,2,7,0,FALSE,https://github.com/rnabioco/ggtrace,2,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1255626913,success,test fix,6da3d522d6835d58570f5df69cfaf0d08bc46058
-rnabioco,ggtrace,rnabioco/ggtrace,2,2,7,0,FALSE,https://github.com/rnabioco/ggtrace,2,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1255626912,success,test fix,6da3d522d6835d58570f5df69cfaf0d08bc46058
+rnabioco,ggtrace,rnabioco/ggtrace,2,2,7,0,FALSE,https://github.com/rnabioco/ggtrace,2,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1296261516,success,"Merge pull request #41 from rnabioco/tests
+
+Tests",5f3ae590c3e9762d0a6043b3807d6002f096b7a0
+rnabioco,ggtrace,rnabioco/ggtrace,2,2,7,0,FALSE,https://github.com/rnabioco/ggtrace,2,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1296261517,success,"Merge pull request #41 from rnabioco/tests
+
+Tests",5f3ae590c3e9762d0a6043b3807d6002f096b7a0
+rnabioco,ggtrace,rnabioco/ggtrace,2,2,7,0,FALSE,https://github.com/rnabioco/ggtrace,2,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1296261513,success,"Merge pull request #41 from rnabioco/tests
+
+Tests",5f3ae590c3e9762d0a6043b3807d6002f096b7a0
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA,NA,NA,NA
 rnabioco,medulloblast,rnabioco/medulloblast,0,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,0,NA,NA,NA,NA,NA,NA
 rnabioco,MOLB7950,rnabioco/MOLB7950,0,3,4,0,FALSE,https://github.com/rnabioco/MOLB7950,0,NA,NA,NA,NA,NA,NA
@@ -39,12 +45,7 @@ rnabioco,rnastruct,rnabioco/rnastruct,2,4,0,0,FALSE,https://github.com/rnabioco/
 rnabioco,rockyrna,rnabioco/rockyrna,0,2,1,0,FALSE,https://github.com/rnabioco/rockyrna,0,NA,NA,NA,NA,NA,NA
 rnabioco,scbp,rnabioco/scbp,1,4,0,1,FALSE,https://github.com/rnabioco/scbp,1,944614,https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/scbp/actions/runs/1124780164,success,add summary boxplot,1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a
 rnabioco,scinter,rnabioco/scinter,0,2,0,0,FALSE,https://github.com/rnabioco/scinter,0,NA,NA,NA,NA,NA,NA
-rnabioco,scraps,rnabioco/scraps,4,5,11,0,FALSE,https://github.com/rnabioco/scraps,4,13465631,https://github.com/rnabioco/scraps/workflows/snakemake-run/badge.svg,https://github.com/rnabioco/scraps/actions/runs/1292299122,success,"merge
-
-Merge branch 'master' of https://github.com/rnabioco/scraps
-
-# Conflicts:
-#	README.md",5f416eb05e7e9de433e97ca63d6bdd03847ac4c3
+rnabioco,scraps,rnabioco/scraps,4,5,11,0,FALSE,https://github.com/rnabioco/scraps,4,13465631,https://github.com/rnabioco/scraps/workflows/snakemake-run/badge.svg,https://github.com/rnabioco/scraps/actions/runs/1296540385,success,formatting,9083af973f0b7743c8a3ce62769f92a59f75d050
 rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,2,4,3,0,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,2,NA,NA,NA,NA,NA,NA
 rnabioco,scrna-subsets,rnabioco/scrna-subsets,2,3,0,2,FALSE,https://github.com/rnabioco/scrna-subsets,2,NA,NA,NA,NA,NA,NA
 rnabioco,sebeta,rnabioco/sebeta,0,3,0,0,FALSE,https://github.com/rnabioco/sebeta,0,NA,NA,NA,NA,NA,NA
@@ -57,7 +58,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1293333550,success,Re-build README.Rmd,c076460b63d1883f331ec99b3b79f4c4e860ab5e
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1294956779,NA,[status] 2021-09-30 12:06:39 UTC,c069482c0c25ce547f24da98dbdaea048f516100
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1298181111,NA,[status] 2021-10-01 12:06:16 UTC,b46e825faca637aa24f53fc370848a4517acf004
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,67,8,5,23,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1198360018,success,Update URL,799dd742ebd681bced0ce03f294d55487729aeaf
 rnabioco,valr,rnabioco/valr,67,8,5,23,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/1198360020,success,Update URL,799dd742ebd681bced0ce03f294d55487729aeaf
