@@ -21,15 +21,9 @@ rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6
 
 added additional checks/tests to import_vdj, filter_vdj, and mutate_meta, closes #69 and #70",eab825cf2720e7a9232bd5d4fad8873316c7c398
 rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1273174884,failure,Update workflows,bf6e5294d6d0627b6f05448c6551f7e66b2bcd51
-rnabioco,ggtrace,rnabioco/ggtrace,3,3,7,0,FALSE,https://github.com/rnabioco/ggtrace,3,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1296261516,success,"Merge pull request #41 from rnabioco/tests
-
-Tests",5f3ae590c3e9762d0a6043b3807d6002f096b7a0
-rnabioco,ggtrace,rnabioco/ggtrace,3,3,7,0,FALSE,https://github.com/rnabioco/ggtrace,3,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1296261517,success,"Merge pull request #41 from rnabioco/tests
-
-Tests",5f3ae590c3e9762d0a6043b3807d6002f096b7a0
-rnabioco,ggtrace,rnabioco/ggtrace,3,3,7,0,FALSE,https://github.com/rnabioco/ggtrace,3,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1296261513,success,"Merge pull request #41 from rnabioco/tests
-
-Tests",5f3ae590c3e9762d0a6043b3807d6002f096b7a0
+rnabioco,ggtrace,rnabioco/ggtrace,3,3,8,0,FALSE,https://github.com/rnabioco/ggtrace,3,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1322467544,success,potential group fix,58303a5232d3e823e3246d4d8c03437b19ae175a
+rnabioco,ggtrace,rnabioco/ggtrace,3,3,8,0,FALSE,https://github.com/rnabioco/ggtrace,3,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1322467543,success,potential group fix,58303a5232d3e823e3246d4d8c03437b19ae175a
+rnabioco,ggtrace,rnabioco/ggtrace,3,3,8,0,FALSE,https://github.com/rnabioco/ggtrace,3,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1322467545,success,potential group fix,58303a5232d3e823e3246d4d8c03437b19ae175a
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA,NA,NA,NA
 rnabioco,medulloblast,rnabioco/medulloblast,0,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,0,NA,NA,NA,NA,NA,NA
 rnabioco,MOLB7950,rnabioco/MOLB7950,0,3,4,0,FALSE,https://github.com/rnabioco/MOLB7950,0,NA,NA,NA,NA,NA,NA
@@ -58,7 +52,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1293333550,success,Re-build README.Rmd,c076460b63d1883f331ec99b3b79f4c4e860ab5e
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1320213075,NA,[status] 2021-10-07 12:06:05 UTC,10ddcf39be6380467352ec832df5cfd29823d36d
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1323461860,NA,[status] 2021-10-08 12:06:48 UTC,260f6921197387715c3f60c700df51df023d3033
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,67,8,5,23,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1198360018,success,Update URL,799dd742ebd681bced0ce03f294d55487729aeaf
 rnabioco,valr,rnabioco/valr,67,8,5,23,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/1198360020,success,Update URL,799dd742ebd681bced0ce03f294d55487729aeaf
