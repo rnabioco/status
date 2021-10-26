@@ -14,18 +14,18 @@ rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,12,954107,https://github.com/rnabioco/clustifyrdata/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479783,failure,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,12,954494,https://github.com/rnabioco/clustifyrdata/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/1095938218,success,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,4,4,1,1,FALSE,https://github.com/rnabioco/clustifyrdatahub,4,NA,NA,NA,NA,NA,NA
-rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1379832137,failure,update .split_vdj,fafd10f42680c181728fd9c6e4b0736ea270e658
-rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1379832135,failure,update .split_vdj,fafd10f42680c181728fd9c6e4b0736ea270e658
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1384288611,failure,updated import_vdj tests,da9bb1ccfba6110f6ad85e197d447811a62984e1
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1384288602,failure,updated import_vdj tests,da9bb1ccfba6110f6ad85e197d447811a62984e1
 rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1273174875,failure,Update workflows,bf6e5294d6d0627b6f05448c6551f7e66b2bcd51
 rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2738772,https://github.com/rnabioco/djvdj/workflows/Commands/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1342838092,skipped,Update workflows,bf6e5294d6d0627b6f05448c6551f7e66b2bcd51
-rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1379832136,failure,update .split_vdj,fafd10f42680c181728fd9c6e4b0736ea270e658
-rnabioco,ggtrace,rnabioco/ggtrace,4,4,7,0,FALSE,https://github.com/rnabioco/ggtrace,4,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155600,success,"Merge pull request #45 from rnabioco/release
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1384288600,failure,updated import_vdj tests,da9bb1ccfba6110f6ad85e197d447811a62984e1
+rnabioco,ggtrace,rnabioco/ggtrace,4,4,6,0,FALSE,https://github.com/rnabioco/ggtrace,4,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155600,success,"Merge pull request #45 from rnabioco/release
 
 minor release",b568be5ba038a4f1df7304e46507a6d5b87617d0
-rnabioco,ggtrace,rnabioco/ggtrace,4,4,7,0,FALSE,https://github.com/rnabioco/ggtrace,4,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155610,success,"Merge pull request #45 from rnabioco/release
+rnabioco,ggtrace,rnabioco/ggtrace,4,4,6,0,FALSE,https://github.com/rnabioco/ggtrace,4,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155610,success,"Merge pull request #45 from rnabioco/release
 
 minor release",b568be5ba038a4f1df7304e46507a6d5b87617d0
-rnabioco,ggtrace,rnabioco/ggtrace,4,4,7,0,FALSE,https://github.com/rnabioco/ggtrace,4,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155603,success,"Merge pull request #45 from rnabioco/release
+rnabioco,ggtrace,rnabioco/ggtrace,4,4,6,0,FALSE,https://github.com/rnabioco/ggtrace,4,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155603,success,"Merge pull request #45 from rnabioco/release
 
 minor release",b568be5ba038a4f1df7304e46507a6d5b87617d0
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA,NA,NA,NA
@@ -43,7 +43,9 @@ rnabioco,rnastruct,rnabioco/rnastruct,2,4,0,0,FALSE,https://github.com/rnabioco/
 rnabioco,rockyrna,rnabioco/rockyrna,0,2,1,0,FALSE,https://github.com/rnabioco/rockyrna,0,NA,NA,NA,NA,NA,NA
 rnabioco,scbp,rnabioco/scbp,1,4,1,1,FALSE,https://github.com/rnabioco/scbp,1,944614,https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/scbp/actions/runs/1124780164,success,add summary boxplot,1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a
 rnabioco,scinter,rnabioco/scinter,0,2,0,0,FALSE,https://github.com/rnabioco/scinter,0,NA,NA,NA,NA,NA,NA
-rnabioco,scraps,rnabioco/scraps,4,5,10,0,FALSE,https://github.com/rnabioco/scraps,4,13465631,https://github.com/rnabioco/scraps/workflows/snakemake-run/badge.svg,https://github.com/rnabioco/scraps/actions/runs/1347314914,success,comment on intron/exon quant,7900b0b656e2d00847113b91806b16b019056c5b
+rnabioco,scraps,rnabioco/scraps,4,5,10,0,FALSE,https://github.com/rnabioco/scraps,4,13465631,https://github.com/rnabioco/scraps/workflows/snakemake-run/badge.svg,https://github.com/rnabioco/scraps/actions/runs/1382992673,success,"Update hg38 polyAdb ref to include -10/+5 slop
+
+Also soft-fixes feature naming (still uses Seurat-incompatible(?) semicolons as field delims).",8c26d4ef96ed1828d309a3a85e987a69aa30a742
 rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,2,4,3,0,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,2,NA,NA,NA,NA,NA,NA
 rnabioco,scrna-subsets,rnabioco/scrna-subsets,2,3,0,2,FALSE,https://github.com/rnabioco/scrna-subsets,2,NA,NA,NA,NA,NA,NA
 rnabioco,sebeta,rnabioco/sebeta,0,3,0,0,FALSE,https://github.com/rnabioco/sebeta,0,NA,NA,NA,NA,NA,NA
@@ -56,7 +58,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1293333550,success,Re-build README.Rmd,c076460b63d1883f331ec99b3b79f4c4e860ab5e
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1380954157,NA,[status] 2021-10-24 12:06:17 UTC,3de70d8ad2da815618597692766287365188add3
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1385519779,NA,[status] 2021-10-25 12:06:27 UTC,4f1909cf35e125cd12b342bb337d4dab409f8a4c
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,67,8,4,23,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058420,success,"Merge pull request #382 from rnabioco/issue379
 
