@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-10-30 12:05:27 UTC
+2021-10-31 12:05:24 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ GitHub Dashboard
 | [rnabioco/scraps](https://github.com/rnabioco/scraps)               |     4 |           5 |     10 |     0 | [![](https://github.com/rnabioco/scraps/workflows/snakemake-run/badge.svg)](https://github.com/rnabioco/scraps/actions/runs/1382992673)                   | <a href="https://github.com/rnabioco/scraps/commit/8c26d4ef96ed1828d309a3a85e987a69aa30a742" title="Update hg38 polyAdb ref to include -10/+5 slop">8c26d4</a>                                |
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      1 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/1124780164)                         | <a href="https://github.com/rnabioco/scbp/commit/1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a" title="add summary boxplot">1ef22c</a>                                                             |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1402253604)                 | <a href="https://github.com/rnabioco/status/commit/d757eeb2c4445e6bb5afc115823f62de46767fbf" title="[status] 2021-10-29 12:05:54 UTC">d757ee</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1404621522)                 | <a href="https://github.com/rnabioco/status/commit/0e4978ee26657fc507cfe921c06bfd6484fc1d1d" title="[status] 2021-10-30 12:06:00 UTC">0e4978</a>                                              |
 
 ## Repos without Github Actions
 
