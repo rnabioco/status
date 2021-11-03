@@ -2,7 +2,7 @@ owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_
 rnabioco,antigen-tracking,rnabioco/antigen-tracking,0,3,0,2,FALSE,https://github.com/rnabioco/antigen-tracking,0,NA,NA,NA,NA,NA,NA
 rnabioco,beryllium_cd4_scrnaseq,rnabioco/beryllium_cd4_scrnaseq,0,2,0,0,FALSE,https://github.com/rnabioco/beryllium_cd4_scrnaseq,0,NA,NA,NA,NA,NA,NA
 rnabioco,bigbio,rnabioco/bigbio,0,3,2,0,FALSE,https://github.com/rnabioco/bigbio,0,NA,NA,NA,NA,NA,NA
-rnabioco,cellar,rnabioco/cellar,8,7,0,1,FALSE,https://github.com/rnabioco/cellar,8,NA,NA,NA,NA,NA,NA
+rnabioco,cellar,rnabioco/cellar,8,6,1,1,FALSE,https://github.com/rnabioco/cellar,8,NA,NA,NA,NA,NA,NA
 rnabioco,cellrangerAWS,rnabioco/cellrangerAWS,3,4,5,1,FALSE,https://github.com/rnabioco/cellrangerAWS,3,NA,NA,NA,NA,NA,NA
 rnabioco,clustifyr,rnabioco/clustifyr,70,11,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,839089,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/64597387,success,Install dev Rccp for tests,fde17917d935de5dd203df212e2cea49f18bf3d3
 rnabioco,clustifyr,rnabioco/clustifyr,70,11,6,15,FALSE,https://github.com/rnabioco/clustifyr,NA,2076350,https://github.com/rnabioco/clustifyr/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/clustifyr/actions/runs/1409136773,failure,Merge branch 'master' of git.bioconductor.org:packages/clustifyr,8b6cadf23efc47c7dcb85cbf56ddc865caba51b1
@@ -58,7 +58,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1406070645,success,Re-build README.Rmd,1b9fcabec1abe99dd6f3f4aba100abe2e77ae9ba
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1412159678,NA,[status] 2021-11-01 12:06:30 UTC,ee9e7658b4445e380e33043fb249d5fbcd7b69d6
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1416609729,NA,[status] 2021-11-02 12:06:58 UTC,756bc68ab8eee80b279c01aea7938962430910fb
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,67,8,4,23,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058420,success,"Merge pull request #382 from rnabioco/issue379
 
