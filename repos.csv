@@ -14,18 +14,12 @@ rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,12,954107,https://github.com/rnabioco/clustifyrdata/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479783,failure,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,12,954494,https://github.com/rnabioco/clustifyrdata/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/1095938218,success,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,4,4,1,1,FALSE,https://github.com/rnabioco/clustifyrdatahub,4,NA,NA,NA,NA,NA,NA
-rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1420163215,failure,"Merge pull request #80 from rnabioco/vignette
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1430814585,success,fix R-CMD checks,87d5d0577821bc68292fbdecf26f0d30418a963a
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1430814586,failure,fix R-CMD checks,87d5d0577821bc68292fbdecf26f0d30418a963a
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1430780897,failure,"Merge pull request #81 from rnabioco/plot_usage
 
-vignette update",3734607cc322dd2727dcccebf1999d3590d1e729
-rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1420163213,failure,"Merge pull request #80 from rnabioco/vignette
-
-vignette update",3734607cc322dd2727dcccebf1999d3590d1e729
-rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1420163212,success,"Merge pull request #80 from rnabioco/vignette
-
-vignette update",3734607cc322dd2727dcccebf1999d3590d1e729
-rnabioco,djvdj,rnabioco/djvdj,6,3,16,2,FALSE,https://github.com/rnabioco/djvdj,6,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1420163216,failure,"Merge pull request #80 from rnabioco/vignette
-
-vignette update",3734607cc322dd2727dcccebf1999d3590d1e729
+plot_usage",d08c33b1957b84a66f59318be82231714f7e7ddd
+rnabioco,djvdj,rnabioco/djvdj,6,3,17,2,FALSE,https://github.com/rnabioco/djvdj,6,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1430814584,failure,fix R-CMD checks,87d5d0577821bc68292fbdecf26f0d30418a963a
 rnabioco,ggtrace,rnabioco/ggtrace,5,4,6,0,FALSE,https://github.com/rnabioco/ggtrace,5,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1373155600,success,"Merge pull request #45 from rnabioco/release
 
 minor release",b568be5ba038a4f1df7304e46507a6d5b87617d0
@@ -65,21 +59,21 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1406070645,success,Re-build README.Rmd,1b9fcabec1abe99dd6f3f4aba100abe2e77ae9ba
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1429044812,NA,[status] 2021-11-05 12:06:35 UTC,845769920e3addc5fedea76ec979f50550dd48d2
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1431403798,NA,[status] 2021-11-06 12:06:31 UTC,3f22e03d3a894efc0d654540efea46e6e2ea8ed7
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
-rnabioco,valr,rnabioco/valr,68,8,4,23,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058420,success,"Merge pull request #382 from rnabioco/issue379
+rnabioco,valr,rnabioco/valr,68,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058420,success,"Merge pull request #382 from rnabioco/issue379
 
 - add read_gtf and read_bigwig fxns
 - modify gh actions to build on release only",a2f8f99e4b6732e8351a51b3cd48b50516121328
-rnabioco,valr,rnabioco/valr,68,8,4,23,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058421,failure,"Merge pull request #382 from rnabioco/issue379
+rnabioco,valr,rnabioco/valr,68,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058421,failure,"Merge pull request #382 from rnabioco/issue379
 
 - add read_gtf and read_bigwig fxns
 - modify gh actions to build on release only",a2f8f99e4b6732e8351a51b3cd48b50516121328
-rnabioco,valr,rnabioco/valr,68,8,4,23,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365059642,skipped,"Merge pull request #382 from rnabioco/issue379
+rnabioco,valr,rnabioco/valr,68,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,838204,https://github.com/rnabioco/valr/workflows/Commands/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365059642,skipped,"Merge pull request #382 from rnabioco/issue379
 
 - add read_gtf and read_bigwig fxns
 - modify gh actions to build on release only",a2f8f99e4b6732e8351a51b3cd48b50516121328
-rnabioco,valr,rnabioco/valr,68,8,4,23,FALSE,https://github.com/rnabioco/valr,NA,823278,https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058418,failure,"Merge pull request #382 from rnabioco/issue379
+rnabioco,valr,rnabioco/valr,68,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,823278,https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058418,failure,"Merge pull request #382 from rnabioco/issue379
 
 - add read_gtf and read_bigwig fxns
 - modify gh actions to build on release only",a2f8f99e4b6732e8351a51b3cd48b50516121328
