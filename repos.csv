@@ -33,6 +33,8 @@ rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioc
 rnabioco,medulloblast,rnabioco/medulloblast,1,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,1,NA,NA,NA,NA,NA,NA
 rnabioco,MOLB7950,rnabioco/MOLB7950,0,3,4,0,FALSE,https://github.com/rnabioco/MOLB7950,0,NA,NA,NA,NA,NA,NA
 rnabioco,morrison-chikv,rnabioco/morrison-chikv,0,1,0,0,FALSE,https://github.com/rnabioco/morrison-chikv,0,NA,NA,NA,NA,NA,NA
+rnabioco,mzt-introns,rnabioco/mzt-introns,0,2,0,0,FALSE,https://github.com/rnabioco/mzt-introns,0,15445449,https://github.com/rnabioco/mzt-introns/workflows/github-actions/badge.svg,https://github.com/rnabioco/mzt-introns/actions/runs/1482593593,success,clarify saf format,a1d16117cc6ffd6a3295ac8556cc301cde33ad1b
+rnabioco,mzt-introns-manuscript,rnabioco/mzt-introns-manuscript,0,2,0,0,FALSE,https://github.com/rnabioco/mzt-introns-manuscript,0,NA,NA,NA,NA,NA,NA
 rnabioco,ont-pipeline,rnabioco/ont-pipeline,0,2,1,1,FALSE,https://github.com/rnabioco/ont-pipeline,0,NA,NA,NA,NA,NA,NA
 rnabioco,practical-data-analysis,rnabioco/practical-data-analysis,10,6,15,8,FALSE,https://github.com/rnabioco/practical-data-analysis,10,NA,NA,NA,NA,NA,NA
 rnabioco,rbi-website,rnabioco/rbi-website,1,5,7,0,FALSE,https://github.com/rnabioco/rbi-website,1,NA,NA,NA,NA,NA,NA
@@ -59,7 +61,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,6008411,https://github.com/rnabioco/someta/workflows/Query/badge.svg,https://github.com/rnabioco/someta/actions/runs/1406070645,success,Re-build README.Rmd,1b9fcabec1abe99dd6f3f4aba100abe2e77ae9ba
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1480882982,NA,[status] 2021-11-18 12:06:39 UTC,13c6a8da1349eb097abdc84280280341ad0caeb2
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1484444194,NA,[status] 2021-11-19 12:05:59 UTC,6f5d5718670385b6f84fba16c12b7d7324f7f244
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,69,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1365058420,success,"Merge pull request #382 from rnabioco/issue379
 
