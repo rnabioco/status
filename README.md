@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2021-11-25 12:06:00 UTC
+2021-11-26 12:06:06 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ GitHub Dashboard
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      1 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/1124780164)                         | <a href="https://github.com/rnabioco/scbp/commit/1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a" title="add summary boxplot">1ef22c</a>                                                             |
 | [rnabioco/mzt-introns](https://github.com/rnabioco/mzt-introns)     |     0 |           2 |      0 |     0 | [![](https://github.com/rnabioco/mzt-introns/workflows/github-actions/badge.svg)](https://github.com/rnabioco/mzt-introns/actions/runs/1482593593)        | <a href="https://github.com/rnabioco/mzt-introns/commit/a1d16117cc6ffd6a3295ac8556cc301cde33ad1b" title="clarify saf format">a1d161</a>                                                       |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1503597241)                 | <a href="https://github.com/rnabioco/status/commit/6942ebf6c0e20466bfddf559f99c504b67df5f81" title="[status] 2021-11-24 12:06:32 UTC">6942eb</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1507443412)                 | <a href="https://github.com/rnabioco/status/commit/f05a45167e8c51373a82e87b272907cc41bf66b8" title="[status] 2021-11-25 12:06:37 UTC">f05a45</a>                                              |
 
 ## Repos without Github Actions
 
