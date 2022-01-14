@@ -14,35 +14,11 @@ rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,12,954107,https://github.com/rnabioco/clustifyrdata/workflows/pkgdown/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/227479783,failure,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,3,FALSE,https://github.com/rnabioco/clustifyrdata,12,954494,https://github.com/rnabioco/clustifyrdata/workflows/Commands/badge.svg,https://github.com/rnabioco/clustifyrdata/actions/runs/1095938218,success,"website update, again",2b6acb2ea4891a091cdd6bec94fedb864e0e4ed9
 rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,4,4,1,1,FALSE,https://github.com/rnabioco/clustifyrdatahub,4,NA,NA,NA,NA,NA,NA
-rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1692582549,NA,"Reduce logo size
-
-Using `convert -resize 240x278`
-
-I can't rebuild README.Rmd because I don't have any of the TCR data locally.
-
-Fixes #91",9fdfe3acb2501bf41e4a3849fb6cbbc000933042
-rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1692582550,NA,"Reduce logo size
-
-Using `convert -resize 240x278`
-
-I can't rebuild README.Rmd because I don't have any of the TCR data locally.
-
-Fixes #91",9fdfe3acb2501bf41e4a3849fb6cbbc000933042
-rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1692582547,NA,"Reduce logo size
-
-Using `convert -resize 240x278`
-
-I can't rebuild README.Rmd because I don't have any of the TCR data locally.
-
-Fixes #91",9fdfe3acb2501bf41e4a3849fb6cbbc000933042
-rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1692582560,NA,"Reduce logo size
-
-Using `convert -resize 240x278`
-
-I can't rebuild README.Rmd because I don't have any of the TCR data locally.
-
-Fixes #91",9fdfe3acb2501bf41e4a3849fb6cbbc000933042
-rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,17865902,https://github.com/rnabioco/djvdj/workflows/pages-build-deployment/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1691379369,success,Built site for djvdj: 0.0.0.9000@e85e4b4,b1770c9c714233e434cf92f2cc834e1886472f2a
+rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2737269,https://github.com/rnabioco/djvdj/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1694254780,success,updated README logo size,86aef1ddc43151681e4229ef243069a345611e37
+rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2440733,https://github.com/rnabioco/djvdj/workflows/R-CMD-check-bioc/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1694254785,failure,updated README logo size,86aef1ddc43151681e4229ef243069a345611e37
+rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2738771,https://github.com/rnabioco/djvdj/workflows/pkgdown/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1694254786,success,updated README logo size,86aef1ddc43151681e4229ef243069a345611e37
+rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,2737270,https://github.com/rnabioco/djvdj/workflows/test-coverage/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1694254774,failure,updated README logo size,86aef1ddc43151681e4229ef243069a345611e37
+rnabioco,djvdj,rnabioco/djvdj,8,3,13,2,FALSE,https://github.com/rnabioco/djvdj,8,17865902,https://github.com/rnabioco/djvdj/workflows/pages-build-deployment/badge.svg,https://github.com/rnabioco/djvdj/actions/runs/1694273074,success,Built site for djvdj: 0.0.0.9000@86aef1d,ec6606934bff1710e910d5ba75e20012d27f44b1
 rnabioco,ggtrace,rnabioco/ggtrace,5,4,7,0,FALSE,https://github.com/rnabioco/ggtrace,5,12954864,https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1547160416,success,No Rd for create_trace_layers(),f5623ef47d00b0bc8033629ed988a8f0f07fadad
 rnabioco,ggtrace,rnabioco/ggtrace,5,4,7,0,FALSE,https://github.com/rnabioco/ggtrace,5,12813244,https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1547160418,success,No Rd for create_trace_layers(),f5623ef47d00b0bc8033629ed988a8f0f07fadad
 rnabioco,ggtrace,rnabioco/ggtrace,5,4,7,0,FALSE,https://github.com/rnabioco/ggtrace,5,12777208,https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg,https://github.com/rnabioco/ggtrace/actions/runs/1547160425,success,No Rd for create_trace_layers(),f5623ef47d00b0bc8033629ed988a8f0f07fadad
@@ -79,7 +55,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,17182100,https://github.com/rnabioco/someta/workflows/pages-build-deployment/badge.svg,https://github.com/rnabioco/someta/actions/runs/1642824633,success,Built site for scmetadata: 1.0.0@2453270,9ba4b16f3745e4da6e9cf27d0e771466709df451
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1692575410,NA,[status] 2022-01-12 12:06:53 UTC,9f6cbaf1b28864845908e9159ba379afb6a52eb7
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1697572030,NA,[status] 2022-01-13 12:06:39 UTC,e04f5987f8a74a2eb319eb2d706e046e990ee18e
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,69,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1556381628,success,increment version number to development version,aff74d6595a76347cd2edcf6e2fb53464cb049b9
 rnabioco,valr,rnabioco/valr,69,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/1556381626,success,increment version number to development version,aff74d6595a76347cd2edcf6e2fb53464cb049b9
