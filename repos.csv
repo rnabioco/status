@@ -1,4 +1,5 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,workflow_id,badge_url,html_url_run,run_conclusion,commit_message,commit_id
+rnabioco,ameloblast-scrnaseq,rnabioco/ameloblast-scrnaseq,0,2,0,0,FALSE,https://github.com/rnabioco/ameloblast-scrnaseq,0,NA,NA,NA,NA,NA,NA
 rnabioco,antigen-tracking,rnabioco/antigen-tracking,0,3,0,2,FALSE,https://github.com/rnabioco/antigen-tracking,0,NA,NA,NA,NA,NA,NA
 rnabioco,beryllium_cd4_scrnaseq,rnabioco/beryllium_cd4_scrnaseq,0,2,0,0,FALSE,https://github.com/rnabioco/beryllium_cd4_scrnaseq,0,NA,NA,NA,NA,NA,NA
 rnabioco,bigbio,rnabioco/bigbio,0,3,2,0,FALSE,https://github.com/rnabioco/bigbio,0,NA,NA,NA,NA,NA,NA
@@ -55,7 +56,7 @@ rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta
 rnabioco,someta,rnabioco/someta,6,5,4,2,FALSE,https://github.com/rnabioco/someta,NA,17182100,https://github.com/rnabioco/someta/workflows/pages-build-deployment/badge.svg,https://github.com/rnabioco/someta/actions/runs/1642824633,success,Built site for scmetadata: 1.0.0@2453270,9ba4b16f3745e4da6e9cf27d0e771466709df451
 rnabioco,squid,rnabioco/squid,0,3,0,1,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1739709673,NA,[status] 2022-01-23 12:06:12 UTC,742fe3277264128b0ecdb3f4fde5ee4dd1f34aaa
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,4442057,https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg,https://github.com/rnabioco/status/actions/runs/1745276363,NA,[status] 2022-01-24 12:06:40 UTC,df29e3bd4bc36b2e043ed05a9911d80b4f898d5c
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,2,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA,NA,NA,NA
 rnabioco,valr,rnabioco/valr,69,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,823277,https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg,https://github.com/rnabioco/valr/actions/runs/1556381628,success,increment version number to development version,aff74d6595a76347cd2edcf6e2fb53464cb049b9
 rnabioco,valr,rnabioco/valr,69,8,4,22,FALSE,https://github.com/rnabioco/valr,NA,837629,https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg,https://github.com/rnabioco/valr/actions/runs/1556381626,success,increment version number to development version,aff74d6595a76347cd2edcf6e2fb53464cb049b9

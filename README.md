@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)  
-2022-01-24 12:06:02 UTC
+2022-01-25 12:05:58 UTC
 
 | Repo                                                                | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                    | Commit                                                                                                                                                                                        |
 | :------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ GitHub Dashboard
 | [rnabioco/rnastruct](https://github.com/rnabioco/rnastruct)         |     2 |           4 |      0 |     0 | [![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)             | <a href="https://github.com/rnabioco/rnastruct/commit/e673a35b147d227c50ee4bba64de0f8e0dbcc132" title="Rename README.d to README.md">e673a3</a>                                               |
 | [rnabioco/scbp](https://github.com/rnabioco/scbp)                   |     1 |           4 |      1 |     1 | [![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/1124780164)                         | <a href="https://github.com/rnabioco/scbp/commit/1ef22c1e1f2d5b5f3fbf459a8ac6307c2bd50a8a" title="add summary boxplot">1ef22c</a>                                                             |
 | [rnabioco/mzt-introns](https://github.com/rnabioco/mzt-introns)     |     0 |           2 |      0 |     0 | [![](https://github.com/rnabioco/mzt-introns/workflows/github-actions/badge.svg)](https://github.com/rnabioco/mzt-introns/actions/runs/1482593593)        | <a href="https://github.com/rnabioco/mzt-introns/commit/a1d16117cc6ffd6a3295ac8556cc301cde33ad1b" title="clarify saf format">a1d161</a>                                                       |
-| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1739709673)                 | <a href="https://github.com/rnabioco/status/commit/742fe3277264128b0ecdb3f4fde5ee4dd1f34aaa" title="[status] 2022-01-23 12:06:12 UTC">742fe3</a>                                              |
+| [rnabioco/status](https://github.com/rnabioco/status)               |     0 |           3 |      1 |     1 | [![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/1745276363)                 | <a href="https://github.com/rnabioco/status/commit/df29e3bd4bc36b2e043ed05a9911d80b4f898d5c" title="[status] 2022-01-24 12:06:40 UTC">df29e3</a>                                              |
 
 ## Repos without Github Actions
 
@@ -58,6 +58,7 @@ GitHub Dashboard
 | [rnabioco/rbi-website](https://github.com/rnabioco/rbi-website)                             |     1 |           5 |      7 |     0 |
 | [rnabioco/rhumba](https://github.com/rnabioco/rhumba)                                       |     1 |           5 |      2 |     2 |
 | [rnabioco/scinter](https://github.com/rnabioco/scinter)                                     |     1 |           3 |      0 |     0 |
+| [rnabioco/ameloblast-scrnaseq](https://github.com/rnabioco/ameloblast-scrnaseq)             |     0 |           2 |      0 |     0 |
 | [rnabioco/antigen-tracking](https://github.com/rnabioco/antigen-tracking)                   |     0 |           3 |      0 |     2 |
 | [rnabioco/beryllium\_cd4\_scrnaseq](https://github.com/rnabioco/beryllium_cd4_scrnaseq)     |     0 |           2 |      0 |     0 |
 | [rnabioco/bigbio](https://github.com/rnabioco/bigbio)                                       |     0 |           3 |      2 |     0 |
