@@ -4,8 +4,8 @@ on:
       - '**.Rmd'
       - '.github/workflows/*'
   schedule:
-    # daily in the morning for America/New_York (hours in UTC)
-    - cron: '0 12 * * *'
+    # weekly on Sunday morning
+    - cron: '0 0 * * 0'
   repository_dispatch:
     # for use with peter-evans/repository_dispatch@v1
     types: ['status-update']
