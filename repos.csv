@@ -4,7 +4,7 @@ rnabioco,ameloblast-scrnaseq,rnabioco/ameloblast-scrnaseq,0,3,0,0,FALSE,https://
 rnabioco,antigen-tracking,rnabioco/antigen-tracking,0,3,0,2,FALSE,https://github.com/rnabioco/antigen-tracking,0,NA,NA,NA
 rnabioco,beryllium_cd4_scrnaseq,rnabioco/beryllium_cd4_scrnaseq,0,3,0,0,FALSE,https://github.com/rnabioco/beryllium_cd4_scrnaseq,0,NA,NA,NA
 rnabioco,bigbio,rnabioco/bigbio,0,3,2,0,FALSE,https://github.com/rnabioco/bigbio,0,NA,NA,NA
-rnabioco,bmsc-7810-pbda,rnabioco/bmsc-7810-pbda,1,2,0,0,FALSE,https://github.com/rnabioco/bmsc-7810-pbda,1,NA,NA,NA
+rnabioco,bmsc-7810-pbda,rnabioco/bmsc-7810-pbda,2,2,1,0,FALSE,https://github.com/rnabioco/bmsc-7810-pbda,2,NA,NA,NA
 rnabioco,cellar,rnabioco/cellar,8,6,0,1,FALSE,https://github.com/rnabioco/cellar,8,NA,NA,NA
 rnabioco,cellrangerAWS,rnabioco/cellrangerAWS,3,4,5,1,FALSE,https://github.com/rnabioco/cellrangerAWS,3,NA,NA,NA
 rnabioco,clustifyr,rnabioco/clustifyr,88,11,10,15,FALSE,https://github.com/rnabioco/clustifyr,NA,4dad838dc88b6084a1b2545651e6573e05d4c591,bump z version to propagate changes,[![](https://github.com/rnabioco/clustifyr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/clustifyr/actions/runs/3412046857) [![](https://github.com/rnabioco/clustifyr/workflows/BiocCheck/badge.svg)](https://github.com/rnabioco/clustifyr/actions/runs/3412046853) [![](https://github.com/rnabioco/clustifyr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/clustifyr/actions/runs/3412046863) [![](https://github.com/rnabioco/clustifyr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/clustifyr/actions/runs/3412046854)
@@ -17,25 +17,20 @@ rnabioco,LTx-rejection-map,rnabioco/LTx-rejection-map,0,3,0,0,FALSE,https://gith
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA
 rnabioco,medulloblast,rnabioco/medulloblast,1,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,1,NA,NA,NA
 rnabioco,morrison-chikv,rnabioco/morrison-chikv,0,2,0,0,FALSE,https://github.com/rnabioco/morrison-chikv,0,NA,NA,NA
-rnabioco,mzt-introns,rnabioco/mzt-introns,0,3,0,0,FALSE,https://github.com/rnabioco/mzt-introns,0,f1878896e5dcdc859d29b0093053dfde347e4e6d,issue with tabulate dependency,[![](https://github.com/rnabioco/mzt-introns/workflows/github-actions/badge.svg)](https://github.com/rnabioco/mzt-introns/actions/runs/3492950724)
+rnabioco,mzt-introns,rnabioco/mzt-introns,0,3,0,0,FALSE,https://github.com/rnabioco/mzt-introns,0,6589e44f8b3beadd8f27739d34bd31f0531bfa00,trigger gh-actions,[![](https://github.com/rnabioco/mzt-introns/workflows/github-actions/badge.svg)](https://github.com/rnabioco/mzt-introns/actions/runs/3516973000)
 rnabioco,mzt-introns-manuscript,rnabioco/mzt-introns-manuscript,0,3,0,0,FALSE,https://github.com/rnabioco/mzt-introns-manuscript,0,NA,NA,NA
 rnabioco,ont-pipeline,rnabioco/ont-pipeline,0,3,1,1,FALSE,https://github.com/rnabioco/ont-pipeline,0,NA,NA,NA
 rnabioco,pneuro-onc-browsers,rnabioco/pneuro-onc-browsers,0,2,0,0,FALSE,https://github.com/rnabioco/pneuro-onc-browsers,0,NA,NA,NA
 rnabioco,practical-data-analysis,rnabioco/practical-data-analysis,13,6,15,8,FALSE,https://github.com/rnabioco/practical-data-analysis,13,676e05830a1a65bd5d978f124cc120b2954c527f,reformat description,[![](https://github.com/rnabioco/practical-data-analysis/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401706) [![](https://github.com/rnabioco/practical-data-analysis/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401704)
-rnabioco,raer,rnabioco/raer,3,3,4,0,FALSE,https://github.com/rnabioco/raer,3,36a5759c5c37391b743c8f27d4466b5fce71c60f,"Merge pull request #35 from rnabioco/parallel
+rnabioco,raer,rnabioco/raer,3,3,6,0,FALSE,https://github.com/rnabioco/raer,3,8b07fa8aa5741f073bbce3496c1817a0ccbab030,"fix performance regression (#52)
 
-Parallel processing",[![](https://github.com/rnabioco/raer/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/raer/actions/runs/2270556385)
-rnabioco,raer,rnabioco/raer,3,3,4,0,FALSE,https://github.com/rnabioco/raer,3,9b6676a2784746ee3e277b8e3fe8abace3607bb0,"Report failed reads (#48)
+* additional zero entry matrix checking
 
-* progress towards modularization
+* no need to check for reads beyond reference
 
-* count reads excluded by event filters
+* update tests for test_that v 3
 
-* dont filter baq == 0
-
-* call via c rather than through rcpp
-
-* master -> v2",[![](https://github.com/rnabioco/raer/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/rnabioco/raer/actions/runs/3317102299)
+* guard against chrom mismatches before calling htslib (very noisey warnings)",[![](https://github.com/rnabioco/raer/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/rnabioco/raer/actions/runs/3527401369)
 rnabioco,rbi-website,rnabioco/rbi-website,1,5,7,0,FALSE,https://github.com/rnabioco/rbi-website,1,NA,NA,NA
 rnabioco,rbitemplate,rnabioco/rbitemplate,0,3,0,0,FALSE,https://github.com/rnabioco/rbitemplate,0,11d121f15ef65e982e1f557b57a55ad02c05068a,more kristen,[![](https://github.com/rnabioco/rbitemplate/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/rbitemplate/actions/runs/2757715739) [![](https://github.com/rnabioco/rbitemplate/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/rbitemplate/actions/runs/2757715738)
 rnabioco,RcppLibBigWig,rnabioco/RcppLibBigWig,0,2,2,0,FALSE,https://github.com/rnabioco/RcppLibBigWig,0,NA,NA,NA
@@ -55,7 +50,7 @@ rnabioco,someta,rnabioco/someta,7,5,4,3,FALSE,https://github.com/rnabioco/someta
 rnabioco,spatialshiny,rnabioco/spatialshiny,1,3,0,0,FALSE,https://github.com/rnabioco/spatialshiny,1,NA,NA,NA
 rnabioco,squid,rnabioco/squid,0,3,0,0,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,5471cf033217f453fc84831a5ad0ce140694aa37,[status] 2022-11-13 00:26:52 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/3505768438)
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,da65a63ceea0978c2344ba0eb18e851bb05e740b,[status] 2022-11-20 00:30:03 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/3555984159)
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,3,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA
 rnabioco,valr,rnabioco/valr,78,8,1,24,FALSE,https://github.com/rnabioco/valr,NA,6978eff88109e3d6be16fe65cd51b3058944cdb0,Increment version number to 0.6.6.9000,[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/3229248218) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/3229248205) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/3229248210)
 rnabioco,valrdata,rnabioco/valrdata,0,3,0,0,FALSE,https://github.com/rnabioco/valrdata,0,NA,NA,NA
