@@ -1,5 +1,8 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 rnabioco,.github,rnabioco/.github,0,2,0,0,FALSE,https://github.com/rnabioco/.github,0,NA,NA,NA
+rnabioco,Koenigshoff-murine-copd,rnabioco/Koenigshoff-murine-copd,0,2,0,0,FALSE,https://github.com/rnabioco/Koenigshoff-murine-copd,0,NA,NA,NA
+rnabioco,LTx-rejection-map,rnabioco/LTx-rejection-map,0,3,0,0,FALSE,https://github.com/rnabioco/LTx-rejection-map,0,NA,NA,NA
+rnabioco,RcppLibBigWig,rnabioco/RcppLibBigWig,0,2,2,0,FALSE,https://github.com/rnabioco/RcppLibBigWig,0,NA,NA,NA
 rnabioco,ameloblast-scrnaseq,rnabioco/ameloblast-scrnaseq,0,3,0,0,FALSE,https://github.com/rnabioco/ameloblast-scrnaseq,0,NA,NA,NA
 rnabioco,antigen-tracking,rnabioco/antigen-tracking,0,3,0,2,FALSE,https://github.com/rnabioco/antigen-tracking,0,NA,NA,NA
 rnabioco,beryllium_cd4_scrnaseq,rnabioco/beryllium_cd4_scrnaseq,0,3,0,0,FALSE,https://github.com/rnabioco/beryllium_cd4_scrnaseq,0,NA,NA,NA
@@ -13,8 +16,6 @@ rnabioco,clustifyrdata,rnabioco/clustifyrdata,12,4,0,2,FALSE,https://github.com/
 rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,6,4,0,1,FALSE,https://github.com/rnabioco/clustifyrdatahub,6,b7636c24aee7fc27f90eead3bca5113964247d4f,bump z version,[![](https://github.com/rnabioco/clustifyrdatahub/workflows/BiocCheck/badge.svg)](https://github.com/rnabioco/clustifyrdatahub/actions/runs/3412646045) [![](https://github.com/rnabioco/clustifyrdatahub/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/clustifyrdatahub/actions/runs/3412646046) [![](https://github.com/rnabioco/clustifyrdatahub/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/clustifyrdatahub/actions/runs/3412646041)
 rnabioco,djvdj,rnabioco/djvdj,19,3,21,3,FALSE,https://github.com/rnabioco/djvdj,19,NA,NA,NA
 rnabioco,ggtrace,rnabioco/ggtrace,9,4,4,1,FALSE,https://github.com/rnabioco/ggtrace,9,10a718453d0f925d9139321b7a992addc04ad4b1,Increment version number,[![](https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/2559285282) [![](https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/2559285284) [![](https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/2559285285)
-rnabioco,Koenigshoff-murine-copd,rnabioco/Koenigshoff-murine-copd,0,2,0,0,FALSE,https://github.com/rnabioco/Koenigshoff-murine-copd,0,NA,NA,NA
-rnabioco,LTx-rejection-map,rnabioco/LTx-rejection-map,0,3,0,0,FALSE,https://github.com/rnabioco/LTx-rejection-map,0,NA,NA,NA
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA
 rnabioco,medulloblast,rnabioco/medulloblast,1,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,1,NA,NA,NA
 rnabioco,morrison-chikv,rnabioco/morrison-chikv,0,2,0,0,FALSE,https://github.com/rnabioco/morrison-chikv,0,NA,NA,NA
@@ -22,29 +23,48 @@ rnabioco,mzt-introns,rnabioco/mzt-introns,0,3,0,0,FALSE,https://github.com/rnabi
 rnabioco,mzt-introns-manuscript,rnabioco/mzt-introns-manuscript,0,3,0,0,FALSE,https://github.com/rnabioco/mzt-introns-manuscript,0,NA,NA,NA
 rnabioco,ont-pipeline,rnabioco/ont-pipeline,0,3,1,1,FALSE,https://github.com/rnabioco/ont-pipeline,0,NA,NA,NA
 rnabioco,pneuro-onc-browsers,rnabioco/pneuro-onc-browsers,0,2,0,0,FALSE,https://github.com/rnabioco/pneuro-onc-browsers,0,NA,NA,NA
-rnabioco,practical-data-analysis,rnabioco/practical-data-analysis,13,6,15,8,FALSE,https://github.com/rnabioco/practical-data-analysis,13,676e05830a1a65bd5d978f124cc120b2954c527f,reformat description,[![](https://github.com/rnabioco/practical-data-analysis/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401706) [![](https://github.com/rnabioco/practical-data-analysis/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401704)
-rnabioco,raer,rnabioco/raer,6,5,8,2,FALSE,https://github.com/rnabioco/raer,6,b68e840ef46aacbf4bc490168d9b8ec3ab4b98d4,more work on single-cell analysis,[![](https://github.com/rnabioco/raer/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/rnabioco/raer/actions/runs/4033435574)
+rnabioco,practical-data-analysis,rnabioco/practical-data-analysis,13,6,15,9,FALSE,https://github.com/rnabioco/practical-data-analysis,13,676e05830a1a65bd5d978f124cc120b2954c527f,reformat description,[![](https://github.com/rnabioco/practical-data-analysis/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401706) [![](https://github.com/rnabioco/practical-data-analysis/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401704)
+rnabioco,raer,rnabioco/raer,6,5,8,2,FALSE,https://github.com/rnabioco/raer,6,0a7957b7c968e8665beffb2d278099f5f713a58e,"exclude multiallelics and other improvements (#83)
+
+closes #72 
+
+- Added `FilterParam` option to exclude multi-allelic sites
+`report_multiallelic`, or to exclude reporting a variant in the Var
+assay based on allelic frequency (`min_allelic_freq`). The two
+parameters, if used in combination, will exclude multiallelic sites with
+high primary and secondary variant allele frequencies.
+- changed `filterParam` argument in `pileup_sites` and `pileup_cells` to
+`param` for simplicity.
+- renamed FilterParam parameter `min_nucleotide_depth` to `min_depth`
+- renamed FilterParam parameter `min_read_bqual` to `read_bqual`
+- moved `bam_flags` parameters to `FilterParams` class
+- the `bedindex` parameter for `pileup_sites` has been removed. This
+option is not needed
+at the user level and is planned to be replaced by the regional indexing
+used in `pileup_cells()`.
+- update tests with new args",[![](https://github.com/rnabioco/raer/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/rnabioco/raer/actions/runs/4075164187)
 rnabioco,rbi-website,rnabioco/rbi-website,1,5,7,0,FALSE,https://github.com/rnabioco/rbi-website,1,NA,NA,NA
 rnabioco,rbitemplate,rnabioco/rbitemplate,0,3,0,0,FALSE,https://github.com/rnabioco/rbitemplate,0,19ffc186e126f0710a36263ff25108d48f13bb92,update mark color for search results,[![](https://github.com/rnabioco/rbitemplate/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/rbitemplate/actions/runs/4015692666) [![](https://github.com/rnabioco/rbitemplate/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/rbitemplate/actions/runs/4015692683)
-rnabioco,RcppLibBigWig,rnabioco/RcppLibBigWig,0,2,2,0,FALSE,https://github.com/rnabioco/RcppLibBigWig,0,NA,NA,NA
 rnabioco,rhumba,rnabioco/rhumba,2,6,2,2,FALSE,https://github.com/rnabioco/rhumba,2,NA,NA,NA
 rnabioco,rnaedits,rnabioco/rnaedits,3,3,1,0,FALSE,https://github.com/rnabioco/rnaedits,3,NA,NA,NA
 rnabioco,rnaroids,rnabioco/rnaroids,0,5,2,1,FALSE,https://github.com/rnabioco/rnaroids,0,NA,NA,NA
 rnabioco,rnastruct,rnabioco/rnastruct,2,4,0,0,FALSE,https://github.com/rnabioco/rnastruct,2,e673a35b147d227c50ee4bba64de0f8e0dbcc132,Rename README.d to README.md,[![](https://github.com/rnabioco/rnastruct/workflows/github-actions/badge.svg)](https://github.com/rnabioco/rnastruct/actions/runs/845483933)
 rnabioco,rockyrna,rnabioco/rockyrna,0,2,1,0,FALSE,https://github.com/rnabioco/rockyrna,0,NA,NA,NA
+rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,3,4,3,1,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,3,NA,NA,NA
 rnabioco,scbp,rnabioco/scbp,4,4,1,1,FALSE,https://github.com/rnabioco/scbp,4,92d3dd2d59cbf9dd038d9a772e5a11f885ceb5fe,update ghactions,[![](https://github.com/rnabioco/scbp/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/scbp/actions/runs/3848593511)
 rnabioco,scinter,rnabioco/scinter,1,3,0,0,FALSE,https://github.com/rnabioco/scinter,1,NA,NA,NA
 rnabioco,scrapR,rnabioco/scrapR,3,4,2,0,FALSE,https://github.com/rnabioco/scrapR,3,NA,NA,NA
 rnabioco,scraps,rnabioco/scraps,8,5,15,1,FALSE,https://github.com/rnabioco/scraps,8,b730c56ec883f9b23f7f8e12c1e6113b8739b59d,Update README.md,[![](https://github.com/rnabioco/scraps/workflows/snakemake-run/badge.svg)](https://github.com/rnabioco/scraps/actions/runs/3960069976)
-rnabioco,scRNA-seq-Cell-Ref-Matrix,rnabioco/scRNA-seq-Cell-Ref-Matrix,3,4,3,1,FALSE,https://github.com/rnabioco/scRNA-seq-Cell-Ref-Matrix,3,NA,NA,NA
 rnabioco,scrna-subsets,rnabioco/scrna-subsets,3,3,0,2,FALSE,https://github.com/rnabioco/scrna-subsets,3,NA,NA,NA
 rnabioco,sebeta,rnabioco/sebeta,0,3,0,0,FALSE,https://github.com/rnabioco/sebeta,0,NA,NA,NA
 rnabioco,someta,rnabioco/someta,7,5,4,3,FALSE,https://github.com/rnabioco/someta,NA,8b6a3a5797b6cdc95da2b29c6f8f3c2bcb4c3e2e,062722,[![](https://github.com/rnabioco/someta/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/someta/actions/runs/2573568259)
-rnabioco,spatialshiny,rnabioco/spatialshiny,2,3,0,0,FALSE,https://github.com/rnabioco/spatialshiny,2,NA,NA,NA
+rnabioco,spatialshiny,rnabioco/spatialshiny,2,3,0,1,FALSE,https://github.com/rnabioco/spatialshiny,2,NA,NA,NA
 rnabioco,squid,rnabioco/squid,0,3,0,0,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,8985f881982a1794f89faf13b975bc1b187de485,[status] 2023-01-22 00:28:34 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/4034258690)
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,9b2df6272b8b8bc2e66fafbd5acd7e14adb02acc,[status] 2023-01-29 00:30:13 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/4094106655)
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,3,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA
-rnabioco,valr,rnabioco/valr,79,8,1,24,FALSE,https://github.com/rnabioco/valr,NA,c129dad64da1a5324b0b43e6ee717394c0112098,update db tests,[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/3639995496) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/3639995502) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/3639995499)
+rnabioco,valr,rnabioco/valr,79,8,0,24,FALSE,https://github.com/rnabioco/valr,NA,0e00aa38be83d9775666791789848f54ab148d91,"Merge pull request #396 from rnabioco/issue395
+
+Issue395",[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4093822725) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4093822722) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4093822723)
 rnabioco,valrdata,rnabioco/valrdata,0,3,0,0,FALSE,https://github.com/rnabioco/valrdata,0,NA,NA,NA
 rnabioco,variant-rc,rnabioco/variant-rc,0,3,0,0,FALSE,https://github.com/rnabioco/variant-rc,0,NA,NA,NA
