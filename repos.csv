@@ -17,32 +17,63 @@ rnabioco,clustifyrdatahub,rnabioco/clustifyrdatahub,6,4,0,1,FALSE,https://github
 rnabioco,djvdj,rnabioco/djvdj,19,3,21,3,FALSE,https://github.com/rnabioco/djvdj,19,NA,NA,NA
 rnabioco,ggtrace,rnabioco/ggtrace,9,4,4,1,FALSE,https://github.com/rnabioco/ggtrace,9,10a718453d0f925d9139321b7a992addc04ad4b1,Increment version number,[![](https://github.com/rnabioco/ggtrace/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/2559285282) [![](https://github.com/rnabioco/ggtrace/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/2559285284) [![](https://github.com/rnabioco/ggtrace/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/ggtrace/actions/runs/2559285285)
 rnabioco,lung-scrna,rnabioco/lung-scrna,0,3,0,1,FALSE,https://github.com/rnabioco/lung-scrna,0,NA,NA,NA
-rnabioco,medulloblast,rnabioco/medulloblast,1,3,0,1,FALSE,https://github.com/rnabioco/medulloblast,1,NA,NA,NA
+rnabioco,medulloblast,rnabioco/medulloblast,1,3,0,2,FALSE,https://github.com/rnabioco/medulloblast,1,NA,NA,NA
 rnabioco,morrison-chikv,rnabioco/morrison-chikv,0,2,0,0,FALSE,https://github.com/rnabioco/morrison-chikv,0,NA,NA,NA
 rnabioco,mzt-introns,rnabioco/mzt-introns,0,3,0,0,FALSE,https://github.com/rnabioco/mzt-introns,0,6589e44f8b3beadd8f27739d34bd31f0531bfa00,trigger gh-actions,[![](https://github.com/rnabioco/mzt-introns/workflows/github-actions/badge.svg)](https://github.com/rnabioco/mzt-introns/actions/runs/3516973000)
 rnabioco,mzt-introns-manuscript,rnabioco/mzt-introns-manuscript,0,3,0,0,FALSE,https://github.com/rnabioco/mzt-introns-manuscript,0,NA,NA,NA
 rnabioco,ont-pipeline,rnabioco/ont-pipeline,0,3,1,1,FALSE,https://github.com/rnabioco/ont-pipeline,0,NA,NA,NA
 rnabioco,pneuro-onc-browsers,rnabioco/pneuro-onc-browsers,0,2,0,0,FALSE,https://github.com/rnabioco/pneuro-onc-browsers,0,NA,NA,NA
 rnabioco,practical-data-analysis,rnabioco/practical-data-analysis,13,6,15,9,FALSE,https://github.com/rnabioco/practical-data-analysis,13,676e05830a1a65bd5d978f124cc120b2954c527f,reformat description,[![](https://github.com/rnabioco/practical-data-analysis/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401706) [![](https://github.com/rnabioco/practical-data-analysis/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/practical-data-analysis/actions/runs/2626401704)
-rnabioco,raer,rnabioco/raer,6,5,8,2,FALSE,https://github.com/rnabioco/raer,6,0a7957b7c968e8665beffb2d278099f5f713a58e,"exclude multiallelics and other improvements (#83)
+rnabioco,raer,rnabioco/raer,6,5,9,2,FALSE,https://github.com/rnabioco/raer,6,5319b4ea4ddc4b14c07dafd337c82bcc10e1239c,"pileup_cells(): add option to process smart-seq2 style libraries (#85)
 
-closes #72 
+e.g.
 
-- Added `FilterParam` option to exclude multi-allelic sites
-`report_multiallelic`, or to exclude reporting a variant in the Var
-assay based on allelic frequency (`min_allelic_freq`). The two
-parameters, if used in combination, will exclude multiallelic sites with
-high primary and secondary variant allele frequencies.
-- changed `filterParam` argument in `pileup_sites` and `pileup_cells` to
-`param` for simplicity.
-- renamed FilterParam parameter `min_nucleotide_depth` to `min_depth`
-- renamed FilterParam parameter `min_read_bqual` to `read_bqual`
-- moved `bam_flags` parameters to `FilterParams` class
-- the `bedindex` parameter for `pileup_sites` has been removed. This
-option is not needed
-at the user level and is planned to be replaced by the regional indexing
-used in `pileup_cells()`.
-- update tests with new args",[![](https://github.com/rnabioco/raer/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/rnabioco/raer/actions/runs/4075164187)
+``` r
+library(GenomicRanges)
+library(raer)
+library(Rsamtools)
+
+bam_fn <- raer_example(""5k_neuron_mouse_possort.bam"")
+outdir <- tempdir()
+bai <- indexBam(bam_fn)
+on.exit(unlink(c(outdir, bai)))
+
+many_small_bams <- rep(bam_fn, 10)
+bam_ids <- LETTERS[1:10]
+
+gr <- GRanges(c(""2:579:-"",
+                ""2:625:-"",
+                ""2:645:-"",
+                ""2:589:-"",
+                ""2:601:-""))
+gr$ref <- c(rep(""A"", 4), ""T"")
+gr$alt <- c(rep(""G"", 4), ""C"")
+
+fp <- FilterParam(library_type = ""fr-second-strand"")
+
+pileup_cells(many_small_bams,
+             sites = gr,
+             cell_barcodes = bam_ids,
+             cb_tag = NULL,
+             umi_tag = NULL,
+             paired_end = TRUE,
+             outdir, param = fp)
+#> class: SingleCellExperiment 
+#> dim: 5 10 
+#> metadata(0):
+#> assays(2): nRef nVar
+#> rownames(5): 2:579_2_A_G 2:625_2_A_G 2:645_2_A_G 2:589_2_A_G
+#>   2:601_2_T_C
+#> rowData names(2): ref alt
+#> colnames(10): A B ... I J
+#> colData names(1): id
+#> reducedDimNames(0):
+#> mainExpName: NULL
+#> altExpNames(0):
+```
+
+<sup>Created on 2023-02-10 with [reprex
+v2.0.2](https://reprex.tidyverse.org)</sup>",[![](https://github.com/rnabioco/raer/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/rnabioco/raer/actions/runs/4147498398)
 rnabioco,rbi-website,rnabioco/rbi-website,1,5,7,0,FALSE,https://github.com/rnabioco/rbi-website,1,NA,NA,NA
 rnabioco,rbitemplate,rnabioco/rbitemplate,0,3,0,0,FALSE,https://github.com/rnabioco/rbitemplate,0,19ffc186e126f0710a36263ff25108d48f13bb92,update mark color for search results,[![](https://github.com/rnabioco/rbitemplate/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/rbitemplate/actions/runs/4015692666) [![](https://github.com/rnabioco/rbitemplate/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/rbitemplate/actions/runs/4015692683)
 rnabioco,rhumba,rnabioco/rhumba,2,6,2,2,FALSE,https://github.com/rnabioco/rhumba,2,NA,NA,NA
@@ -61,10 +92,15 @@ rnabioco,someta,rnabioco/someta,7,5,4,3,FALSE,https://github.com/rnabioco/someta
 rnabioco,spatialshiny,rnabioco/spatialshiny,2,3,0,1,FALSE,https://github.com/rnabioco/spatialshiny,2,NA,NA,NA
 rnabioco,squid,rnabioco/squid,0,3,0,0,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,9b2df6272b8b8bc2e66fafbd5acd7e14adb02acc,[status] 2023-01-29 00:30:13 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/4094106655)
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,b11b8134ef9485e0a0f0933e5981ffd2a94d4a14,[status] 2023-02-05 00:27:47 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/4153830948)
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,3,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA
-rnabioco,valr,rnabioco/valr,79,8,0,24,FALSE,https://github.com/rnabioco/valr,NA,0e00aa38be83d9775666791789848f54ab148d91,"Merge pull request #396 from rnabioco/issue395
+rnabioco,valr,rnabioco/valr,79,8,1,24,FALSE,https://github.com/rnabioco/valr,NA,0006d38a6704899fcec2fdc626710d6ee2b07ca6,"specify multiple = ""all"" argument added in dplyr 1.1.0 (#400)
 
-Issue395",[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4093822725) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4093822722) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4093822723)
+We can safely specify multiple = ""all"" in bed_absdist() to silence this warning. There may be other conditions in other code that trigger this, but I don't see this warning in other tests, examples, or vignettes.
+
+Note that you need to set Sys.setenv(TESTTHAT_PKG = ""valr"") to see the warning during interactive use.
+
+closes #399",[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4149481612) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4149481614) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4149481611)
 rnabioco,valrdata,rnabioco/valrdata,0,3,0,0,FALSE,https://github.com/rnabioco/valrdata,0,NA,NA,NA
 rnabioco,variant-rc,rnabioco/variant-rc,0,3,0,0,FALSE,https://github.com/rnabioco/variant-rc,0,NA,NA,NA
+rnabioco,visium-probe-design,rnabioco/visium-probe-design,0,2,0,0,FALSE,https://github.com/rnabioco/visium-probe-design,0,NA,NA,NA
