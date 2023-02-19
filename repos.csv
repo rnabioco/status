@@ -92,15 +92,9 @@ rnabioco,someta,rnabioco/someta,7,5,4,3,FALSE,https://github.com/rnabioco/someta
 rnabioco,spatialshiny,rnabioco/spatialshiny,2,3,0,1,FALSE,https://github.com/rnabioco/spatialshiny,2,NA,NA,NA
 rnabioco,squid,rnabioco/squid,0,3,0,0,FALSE,https://github.com/rnabioco/squid,0,NA,NA,NA
 rnabioco,squirrelbox,rnabioco/squirrelbox,4,4,3,2,FALSE,https://github.com/rnabioco/squirrelbox,4,NA,NA,NA
-rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,b11b8134ef9485e0a0f0933e5981ffd2a94d4a14,[status] 2023-02-05 00:27:47 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/4153830948)
+rnabioco,status,rnabioco/status,0,3,1,1,FALSE,https://github.com/rnabioco/status,0,153e720370ac9b110fec1b787a0a8fedecaced09,[status] 2023-02-12 00:28:36 UTC,[![](https://github.com/rnabioco/status/workflows/Render%20Status/badge.svg)](https://github.com/rnabioco/status/actions/runs/4213699271)
 rnabioco,ucsc-trackhub,rnabioco/ucsc-trackhub,0,3,0,0,FALSE,https://github.com/rnabioco/ucsc-trackhub,0,NA,NA,NA
-rnabioco,valr,rnabioco/valr,79,8,1,24,FALSE,https://github.com/rnabioco/valr,NA,0006d38a6704899fcec2fdc626710d6ee2b07ca6,"specify multiple = ""all"" argument added in dplyr 1.1.0 (#400)
-
-We can safely specify multiple = ""all"" in bed_absdist() to silence this warning. There may be other conditions in other code that trigger this, but I don't see this warning in other tests, examples, or vignettes.
-
-Note that you need to set Sys.setenv(TESTTHAT_PKG = ""valr"") to see the warning during interactive use.
-
-closes #399",[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4149481612) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4149481614) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4149481611)
+rnabioco,valr,rnabioco/valr,79,8,0,24,FALSE,https://github.com/rnabioco/valr,NA,810afe096a944cdc6be7f0623cd28b54ea7ac7ed,Increment version number to 0.6.7.9000,[![](https://github.com/rnabioco/valr/workflows/R-CMD-check/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4213366109) [![](https://github.com/rnabioco/valr/workflows/pkgdown/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4213366107) [![](https://github.com/rnabioco/valr/workflows/test-coverage/badge.svg)](https://github.com/rnabioco/valr/actions/runs/4213366105)
 rnabioco,valrdata,rnabioco/valrdata,0,3,0,0,FALSE,https://github.com/rnabioco/valrdata,0,NA,NA,NA
 rnabioco,variant-rc,rnabioco/variant-rc,0,3,0,0,FALSE,https://github.com/rnabioco/variant-rc,0,NA,NA,NA
 rnabioco,visium-probe-design,rnabioco/visium-probe-design,0,2,0,0,FALSE,https://github.com/rnabioco/visium-probe-design,0,NA,NA,NA
